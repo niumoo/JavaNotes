@@ -10,7 +10,11 @@ tags:
 - HTTP
 ---
 
- ![HTTP](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/http-to-https-Image-1024x576.png)   
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
+![HTTP](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/http-to-https-Image-1024x576.png)   
 
 ### HTTP的简介
 
@@ -203,3 +207,16 @@ POST把提交的数据放置在是HTTP包的包体中。因此，GET提交的数
 1. GET方式需要使用Request.QueryString来取得变量的值，而POST方式通过Request.Form来获取变量的值。
 1. GET方式提交数据，会带来安全问题，比如一个登录页面，通过GET方式提交数据时，用户名和密码将出现在URL上，如果页面可以被缓存或者其他人可以访问这台机器，就可以从历史记录获得该用户的账号和密码.
 1. GET产生一个TCP数据包;POST产生两个TCP数据包。
+
+
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)
+
