@@ -25,7 +25,7 @@
 
 ### 🌿 SpringBoot 2.x 
 
-下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [github.com/niumoo/springboot](https://github.com/niumoo/springboot).
+下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot).
 
 - [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://www.wdbyte.com/2020/03/springboot/springboot-18-module/)
 - [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://www.wdbyte.com/2019/12/springboot/springboot-17-admin/)
@@ -50,7 +50,7 @@
 
 Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错，何况有些新语法是**真香**。
 
-持续更新中，下面所有文字都有代码演示和 Demo，在这里 [github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature).
+持续更新中，下面所有文字的代码演示和 Demo 都在这里 [Github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature).
 
 - Java 14 新特性讲解
 - Java 13 新特性讲解
@@ -106,7 +106,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 >“工欲善其事，必先利其器”
 >出处：孔子《论语》
 
-一款好用的工具，不仅可以装X，更可以让你事半功倍。
+一款好用的工具，不仅可以装X，更可以让你事半功倍，准时下班。
 
 - curl 使用教程
 - [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://www.wdbyte.com/2019/10/develop/idea-skill/)
@@ -139,9 +139,9 @@ CSDN：[https://niumoo.blog.csdn.net/](https://niumoo.blog.csdn.net/)
 
 我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
 
-公众号：未读代码，[二维码点这里](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/qrcode-color.png)，每一篇文字都会都先在公众号进行发布。
+公众号：「 **未读代码** 」，[二维码在这里](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/qrcode-color.png)，每一篇文字都会都先在公众号进行发布。
 
-我的微信：可以添加我的微信<u>wn8398</u>一起交流，坑不多了，要来的赶紧。
+我的微信：可以添加我的微信 <u>wn8398</u> 一起交流，坑不多了，要来的赶紧。
 
 ### 公众号
 
