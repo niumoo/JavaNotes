@@ -1,4 +1,4 @@
-<h2 align="center"> Java summer <h2>
+<h2 align="center"> Java Notes <h2>
 <p align="center">
 <a href="#我的痕迹" rel="nofollow"><img src="https://img.shields.io/badge/wechat-微信-9cf.svg" alt="wechat" data-canonical-src="https://img.shields.io/badge/wechat-微信-9cf.svg" style="max-width:100%;"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-未读代码-success.svg" alt="公众号" data-canonical-src="https://img.shields.io/badge/公众号-未读代码-success.svg" style="max-width:100%;"></a>
@@ -8,6 +8,7 @@
    <a href="https://www.zhihu.com/people/bpdwn" rel="nofollow"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎" data-canonical-src="https://img.shields.io/badge/zhihu-知乎-blue.svg" style="max-width:100%;"></a>
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
+
 
 ### 🔬 JDK 源码分析
 
@@ -144,3 +145,8 @@ CSDN：[https://niumoo.blog.csdn.net/](https://niumoo.blog.csdn.net/)
 
 ### 公众号
 
+有帮助可以点「**赞**」在看或 :star: **Star**，谢谢你！
+
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/weixin-public.jpg)
