@@ -122,7 +122,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [消息队列中间件（一）介绍](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-introduction.md) | [微信链接](https://mp.weixin.qq.com/s/Gg3STCrnLsormMl1HyZrrQ)
 - [IO通信模型（三）多路复用IO](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-nio-selector.md) | [微信链接](https://mp.weixin.qq.com/s/4Xqk17NRlx56XfzSRhTNPA)
 - [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-bon-blocking.md) | [微信链接](https://mp.weixin.qq.com/s/lad3Ot2LQy6DEwMBH5NW1g)
-- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）]([https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking%20.md](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking .md)) | [微信链接](https://mp.weixin.qq.com/s/1-8fMMIGxKiyXG6852xpaA)
+- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking .md) | [微信链接](https://mp.weixin.qq.com/s/1-8fMMIGxKiyXG6852xpaA)
 
 ### 🧰 工具技巧
 
