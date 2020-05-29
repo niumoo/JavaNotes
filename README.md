@@ -13,6 +13,7 @@
 
 目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，欢迎你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
+**注：如果Github 访问较慢**，可以访问每篇文章后面的**微信链接**，也可以访问网站 [www.wdbyte.com](https://www.wdbyte.com) 阅读。
 
 ### 🔬 JDK 源码分析
 
@@ -29,26 +30,26 @@
 
 ### 🌿 SpringBoot 2.x 
 
-下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot).
+下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot) 仓库。
 
-- [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://www.wdbyte.com/2020/03/springboot/springboot-18-module/)
-- [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://www.wdbyte.com/2019/12/springboot/springboot-17-admin/)
-- [Springboot 系列（十六）你真的了解 Swagger 文档吗？](https://www.wdbyte.com/2019/11/springboot/springboot-16-web-swagger/)
-- [Springboot 系列（十五）如何编写自己的 Springboot starter](https://www.wdbyte.com/2019/11/springboot/springboot-15-my-starter/)
-- [Springboot 系列（十四）迅速启用 HTTPS 加密你的网站](https://www.wdbyte.com/2019/08/springboot/springboot-14-https/)
-- [Springboot 系列（十三）使用邮件服务](https://www.wdbyte.com/2019/03/springboot/springboot-13-email/)
-- [Springboot 系列（十二）使用 Mybatis 集成 pagehelper 分页插件和 mapper 插件](https://www.wdbyte.com/2019/03/springboot/springboot-12-data-mybatis-page/)
-- [Springboot 系列（十一）使用 Mybatis（自动生成插件） 访问数据库](https://www.wdbyte.com/2019/03/springboot/springboot-11-data-mybatis/)
-- [Springboot 系列（十）使用 Spring data jpa 访问数据库](https://www.wdbyte.com/2019/03/springboot/springboot-10-data-jpa/)
-- [Springboot 系列（九）使用 Spring JDBC 和 Druid 数据源监控](https://www.wdbyte.com/2019/02/springboot/springboot-09-data-jdbc/)
-- [Springboot 系列（八）动态Banner与图片转字符图案的手动实现](https://www.wdbyte.com/2019/02/springboot/springboot-08-banner/)
-- [Springboot 系列（七）web 开发之异常错误处理机制剖析](https://www.wdbyte.com/2019/02/springboot/springboot-07-web-exception/)
-- [Springboot 系列（六）web 开发之拦截器和三大组件](https://www.wdbyte.com/2019/02/springboot/springboot-06-web-filter-apo-webbase/)
-- [Springboot 系列（五）web 开发之静态资源和模版引擎](https://www.wdbyte.com/2019/02/springboot/springboot-05-web-static-template/)
-- [Springboot 系列（四）Spring Boot 日志框架](https://www.wdbyte.com/2019/01/springboot/springboot04-log/)
-- [Springboot 系列（三）Spring Boot 自动配置](https://www.wdbyte.com/2019/01/springboot/springboot03-auto-config/)
-- [Springboot 系列（二）Spring Boot 配置文件](https://www.wdbyte.com/2019/01/springboot/springboot01-config/)
-- [Springboot 系列（一）Spring Boot 入门篇](https://www.wdbyte.com/2019/01/springboot/springboot01-quick-start/)
+- [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-03-auto-config.md) | [微信链接]()
+- [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-17-admin.md) | [微信链接]()
+- [Springboot 系列（十六）你真的了解 Swagger 文档吗？](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-16-web-swagger.md) | [微信链接]()
+- [Springboot 系列（十五）如何编写自己的 Springboot starter](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-15-my-starter.md) | [微信链接]()
+- [Springboot 系列（十四）迅速启用 HTTPS 加密你的网站](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-14-https.md) | [微信链接]()
+- [Springboot 系列（十三）使用邮件服务](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-13-email.md) | [微信链接]()
+- [Springboot 系列（十二）使用 Mybatis 集成 pagehelper 分页插件和 mapper 插件](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-12-data-mybatis-page.md) | [微信链接]()
+- [Springboot 系列（十一）使用 Mybatis（自动生成插件） 访问数据库](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-11-data-mybatis.md) | [微信链接]()
+- [Springboot 系列（十）使用 Spring data jpa 访问数据库](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-10-data-jpa.md) | [微信链接]()
+- [Springboot 系列（九）使用 Spring JDBC 和 Druid 数据源监控](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-09-data-jdbc.md) | [微信链接]()
+- [Springboot 系列（八）动态Banner与图片转字符图案的手动实现](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-08-banner.md) | [微信链接]()
+- [Springboot 系列（七）web 开发之异常错误处理机制剖析](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-07-web-exception.md) | [微信链接]()
+- [Springboot 系列（六）web 开发之拦截器和三大组件](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-06-web-filter-apo-webbase.md) | [微信链接]()
+- [Springboot 系列（五）web 开发之静态资源和模版引擎](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-05-web-static-template.md) | [微信链接]()
+- [Springboot 系列（四）Spring Boot 日志框架](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-04-log.md) | [微信链接]()
+- [Springboot 系列（三）Spring Boot 自动配置](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-03-auto-config.md) | [微信链接]()
+- [Springboot 系列（二）Spring Boot 配置文件](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-02-config.md) | [微信链接]()
+- [Springboot 系列（一）Spring Boot 入门篇](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-01-quick-start.md) | [微信链接]()
 
 ### ☕ Java 新特性
 
