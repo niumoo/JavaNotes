@@ -11,6 +11,10 @@ categories:
  - IO 通信
 ---
 
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 ![mac背包](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/59a331b8fdebaf1dcecab9fe31bb8b80.png)
 ## 多路复用IO
 从`非阻塞同步IO`的介绍中可以发现，为每一个接入创建一个线程在请求很多的情况下不那么适用了，因为这会渐渐耗尽服务器的资源，人们也都意识到了这个 问题，因此终于有人发明了`IO多路复用`。最大的特点就是`不需要开那么多的线程和进程`。
@@ -393,3 +397,14 @@ public class NioSocketServer {
 文章代码已经上传GitHub：[https://github.com/niumoo/java-toolbox/](https://github.com/niumoo/java-toolbox/tree/master/src/main/java/net/codingme/box/io/jdknio)
 
 <完>
+
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)

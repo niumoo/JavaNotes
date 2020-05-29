@@ -10,6 +10,10 @@ categories:
  - Java 新特性
 ---
 
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 当前时间：2019年 11月 11日，距离 JDK 14 发布时间（2020年3月17日）还有多少天？
 
 ```java
@@ -411,3 +415,14 @@ public void mapMathTest() {
 `Lamdba` 结合函数接口，方法引用，类型推导以及流式操作，可以让代码变得更加简洁紧凑，也可以借此开发出更加强大且支持并行计算的程序，函数编程也为 Java 带来了新的程序设计方式。但是缺点也很明显，在实际的使用过程中可能会发现调式困难，测试表示 `Lamdba` 的遍历性能并不如 for 的性能高，同事可能没有学习导致看不懂 `Lamdba` 等（可以推荐来看这篇文章）。
 
 文章代码已经上传到 [https://github.com/niumoo/jdk-feature)](https://github.com/niumoo/jdk-feature) 。
+
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)

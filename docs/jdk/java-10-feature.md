@@ -9,6 +9,10 @@ categories:
  - Java 新特性
 ---
 
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 ![Java 10](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/Whats_New_Java10-881x441.png)
 
 自从 `Java 9` 开始，Oracle 调整了 Java 版本的发布策略，不再是之前的 N 年一个大版本，取而代之的是 6 个月一个小版本，三年一个大版本，这样可以让 Java 的最新改变迅速上线，而小版本的维护周期缩短到下个版本发布之前，大版本的维护周期则是 3 年之久。而 10 就是这么一个小版本，因为 Java 的后续版本基本都会包含之前新特性，所以还是把 `Java 10` 带来的改变单独写一写。
@@ -202,5 +206,14 @@ list.stream().collect(Collectors.toUnmodifiableSet());
 4. JEP 319：在JDK中提供一组默认的根证书颁发机构（CA）证书。
 
 
-
 文章案例都已经上传到 Github：[niumoo/jdk-feature](https://github.com/niumoo/jdk-feature)
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)

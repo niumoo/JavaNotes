@@ -11,6 +11,11 @@ tags:
 categories:
  - Springboot
 ---
+
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 ![桌面生活（来自网络）](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/64cccddf32b7e3f4069ca2459057496e.png)
 ## 前言
 在 Springboot 系列文章第十一篇里（[使用 Mybatis（自动生成插件） 访问数据库](https://mp.weixin.qq.com/s?__biz=MzI1MDIxNjQ1OQ==&mid=2247483756&idx=1&sn=902dba8ed665131453bc26de246ccaa1&chksm=e984e808def3611edf0949a9db71ea6dc29432b25fb27015d78bc8117a50a3bedd79194de5ea&token=93558379&lang=zh_CN#rd)），实验了 Springboot 结合 Mybatis 以及 Mybatis-generator 生成插件的开发过程，其实对于 Mybatis 来讲还有很多优秀方便好用的插件，比如这次要演示的 通用 Mapper 生成插件和分页插件。
@@ -485,3 +490,13 @@ Book(id=2, author=金庸, name=笑傲江湖, price=12.0, createTime=Sat Sep 01 1
 1. [如何使用分页插件](https://pagehelper.github.io/docs/howtouse/)
 1. [Mapper插件](https://github.com/abel533/Mapper/wiki/1.3-spring-boot)
 1. [ MyBatis Generator](http://www.mybatis.org/generator/)
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)

@@ -10,6 +10,11 @@ tags:
  - Mybatis Generator
  - 开发工具
 ---
+
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 ### MyBatis Generator？
 
 MyBatis是一款非常流行的开源框架，在简单的进行框架配置后可以快速的进入开发阶段，主要的工作是编写Mapper文件和相关Dao接口以及实体类，久之，麻烦，发现这个工具，可以自动化的生成Model、Dao、Mapper相关代码。可谓是是开发MyBatis神器。
@@ -117,3 +122,13 @@ D:.
 D:\generator\src>
 ```
 代码已经自动生成完成，拷贝粘贴修修改改即可。
+
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)

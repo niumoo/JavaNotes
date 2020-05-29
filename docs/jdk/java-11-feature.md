@@ -8,6 +8,10 @@ categories:
  - Java 新特性
 ---
 
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+>
+> 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
+
 ![图片来自网络，作者：manotang](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2020/Oxz5l3JUFaHrCNm.jpg)
 
 大多数开发者还是沉浸在 `Java 8` 中，而 `Java 14` 将要在 2020 年 3 月 17 日发布了，而我还在写着 `Java 11` 的新特性。`Java 11` 是 `Java 8` 之后的第一个 LTS 版本，但是也自从 `Java 11` 开始， Oracle JDK 不再可以免费的用于商业用途，当然如果你是个人使用，或者是使用 Open JDK ，那么还是可以免费使用的。
@@ -181,3 +185,12 @@ wechat:wn8398
 
 文章案例都已经上传到 Github：[niumoo/jdk-feature](https://github.com/niumoo/jdk-feature)
 
+### 最后的话
+
+文章有帮助可以点「**赞**」在看或 Star，谢谢你！
+
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 Star 和完善，希望我们一起变得优秀。
+
+要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号。
+
+![公众号](https://camo.githubusercontent.com/a2cbbcea06fb6653b2e0dc25acff3bf0d525a218/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6e69756d6f6f2f63646e2d6173736574732f776562696e666f2f77656978696e2d7075626c69632e6a7067)
