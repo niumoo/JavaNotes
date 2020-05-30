@@ -8,7 +8,7 @@ categories:
  - Java 源码分析
 ---
 
-> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。
+> 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。  
 > 欢迎关注我的[公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7)，文章每周更新。
 
 HashMap 作为最常用的集合类之一，有必要深入浅出的了解一下。这篇文章会深入到 HashMap 源码，刨析它的存储结构以及工作机制。
