@@ -472,7 +472,7 @@ spring:
 
 ## 7. 外部配置文件
 
-Spring Boot 的外部配置文件加载的方式有很多，具体可以参考[官方文档](https://docs.spring.io/spring-boot/docs/2.1.x/reference/html/boot-features-external-config.html)。这写配置加载优先级从高到底，优先级高的配置会覆盖优先级低的配置。
+Spring Boot 的外部配置文件加载的方式有很多，具体可以参考[官方文档](https://docs.spring.io/spring-boot/docs/2.1.x/reference/html/boot-features-external-config.html)。这些配置加载优先级从高到底，优先级高的配置会覆盖优先级低的配置。
 
 下面介绍几种常见的加载配置的顺序。
 
@@ -491,7 +491,7 @@ Spring Boot 的外部配置文件加载的方式有很多，具体可以参考[�
 
 **最后的话**
 
-文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 **Star** 和完善，希望我们一起变的优秀。
+文章每周持续更新，本文 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) 已收录。更有一线大厂面试点，Java程序员所需要掌握的核心知识等文章，也整理了很多我的文字，欢迎 **Star** 和完善，希望我们一起变得优秀。
 
 文章有帮助可以点「**赞**」在看或 **Star**，我都喜欢，谢谢你！  
 要实时关注我更新的文章以及分享的干货，可以关注「 **未读代码** 」公众号，公众号回复 666 可以领取很多**资料**。
