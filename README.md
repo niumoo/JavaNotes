@@ -115,15 +115,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 堆
 - 图
 
-### 💬 消息中间件
-
-- [消息队列中间件（三）Kafka 入门指南](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-kafka-introduction.md)| [微信链接](https://mp.weixin.qq.com/s/FtVl7ZJXetA95c_9BtsXhg)
-- [消息队列中间件（二）使用 ActiveMQ](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-activemq.md) | [微信链接](https://mp.weixin.qq.com/s/D0sclKz2gGUvllISjqHgyw)
-- [消息队列中间件（一）介绍](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-introduction.md) | [微信链接](https://mp.weixin.qq.com/s/Gg3STCrnLsormMl1HyZrrQ)
-- [IO通信模型（三）多路复用IO](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-nio-selector.md) | [微信链接](https://mp.weixin.qq.com/s/4Xqk17NRlx56XfzSRhTNPA)
-- [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-bon-blocking.md) | [微信链接](https://mp.weixin.qq.com/s/lad3Ot2LQy6DEwMBH5NW1g)
-- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking .md) | [微信链接](https://mp.weixin.qq.com/s/1-8fMMIGxKiyXG6852xpaA)
-
 ### 🧰 工具技巧
 
 >“工欲善其事，必先利其器”
@@ -141,6 +132,20 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [原来热加载如此简单，手动写一个 Java 热加载吧](https://www.wdbyte.com/2019/10/jvm/java-hotput/)| [微信链接](https://mp.weixin.qq.com/s/Dpz1x_UyXeIMiA2hc7wZUw)
 - [Manjaro Linux 入门使用教程](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-manjaro.md)| [微信链接](https://mp.weixin.qq.com/s/ulueZbYaADsVbX23Fu-lzQ)
 - [Ubuntu18 的超详细常用软件安装](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-ubuntu-start.md)| [微信链接](https://mp.weixin.qq.com/s/AKlVxkzwoyvcLDPPXlpm8g)
+
+### ⏳ 小算法
+
+- [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md)
+
+### 💬 消息中间件
+
+- [消息队列中间件（三）Kafka 入门指南](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-kafka-introduction.md)| [微信链接](https://mp.weixin.qq.com/s/FtVl7ZJXetA95c_9BtsXhg)
+- [消息队列中间件（二）使用 ActiveMQ](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-activemq.md) | [微信链接](https://mp.weixin.qq.com/s/D0sclKz2gGUvllISjqHgyw)
+- [消息队列中间件（一）介绍](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-introduction.md) | [微信链接](https://mp.weixin.qq.com/s/Gg3STCrnLsormMl1HyZrrQ)
+- [IO通信模型（三）多路复用IO](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-nio-selector.md) | [微信链接](https://mp.weixin.qq.com/s/4Xqk17NRlx56XfzSRhTNPA)
+- [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-bon-blocking.md) | [微信链接](https://mp.weixin.qq.com/s/lad3Ot2LQy6DEwMBH5NW1g)
+- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking .md) | [微信链接](https://mp.weixin.qq.com/s/1-8fMMIGxKiyXG6852xpaA)
+
 
 ### 🗺 贡献与建议
 
