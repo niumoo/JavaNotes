@@ -135,7 +135,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 ### ⏳ 小算法
 
-- [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md)
+- [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md) | [微信链接](https://mp.weixin.qq.com/s/jNIxbw9sUPMZr_Fw_EFKFQ)
 
 ### 💬 消息中间件
 
