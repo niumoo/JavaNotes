@@ -32,7 +32,7 @@
 
 下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot) 仓库。
 
-- [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-03-auto-config.md) | [微信链接]()
+- [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-03-auto-config.md) | [微信链接](https://mp.weixin.qq.com/s/4ffDc99rzUEM3c4ZoTHsIA)
 - [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-17-admin.md) | [微信链接](https://mp.weixin.qq.com/s/AwlTf2MIx_Rp8jL4CcX3AA)
 - [Springboot 系列（十六）你真的了解 Swagger 文档吗？](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-16-web-swagger.md) | [微信链接](https://mp.weixin.qq.com/s/fE9-SI6mJzMD2S9TpKRyAg)
 - [Springboot 系列（十五）如何编写自己的 Springboot starter](https://github.com/niumoo/JavaNotes/blob/master/docs/springboot/springboot-15-my-starter.md) | [微信链接](https://mp.weixin.qq.com/s/V-uPpfNxnhXRNa6ExfUD-A)
