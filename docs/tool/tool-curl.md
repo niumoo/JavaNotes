@@ -1,12 +1,12 @@
-5---
+---
 title: 可以Postman也可以cURL.进来领略下cURL的独门绝技
 date: 2020-06-01 08:00:00
 url: tool/curl
 categories:
-- 工具
-- Linux
+ - 工具
+ - Linux
 tags:
-- curl
+ - curl
 ---
 
 > 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。  
