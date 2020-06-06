@@ -1,5 +1,5 @@
 ---
-title: 可以Postman也可以cURL.进来领略下cURL的独门绝技
+title: 可以Postman，也可以cURL.进来领略下cURL的独门绝技
 date: 2020-06-01 08:00:00
 url: tool/curl
 categories:

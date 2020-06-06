@@ -122,7 +122,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 一款好用的工具，不仅可以装X，更可以让你事半功倍，准时下班。
 
-- curl 使用教程
+- [可以Postman，也可以cURL.进来领略下cURL的独门绝技](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-curl.md) | [微信链接](https://mp.weixin.qq.com/s/jK4ctq5VQjw4oPSO0gEp6Q)
 - [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-idea-skill.md)| [微信链接](https://mp.weixin.qq.com/s/-jzzxd_eEmTGVntabhT-CA)
 - [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
 - [使用Apache Ant 进行Java web项目打包并部署至TOMCAT](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-apache-ant.md)| [网站链接](https://www.wdbyte.com/2017/11/develop/tool-apache-ant/)
