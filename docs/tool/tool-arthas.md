@@ -767,6 +767,90 @@ tt -i 1001 -p
 
 
 
+## 4.5. 火焰图分析
+
+最近 Arthas 性能分析工具上线了**火焰图**分析功能，Arthas 使用 **async-profiler** 生成 CPU/内存火焰图进行性能分析，弥补了之前内存分析的不足。在 Arthas 上使用还是比较方便的。
+
+**`profiler`** 命令支持生成应用热点的火焰图。本质上是通过不断的采样，然后把收集到的采样结果生成火焰图。
+
+**`profiler`** 命令基本运行结构是 **`profiler action [actionArg]`**
+
+### **4.5.1.使用案例**
+
+**开启 prifilter** 
+
+默认情况下，生成的是cpu的火焰图，即event为`cpu`。可以用`--event`参数来指定，使用 start 命令开始捕获信息。
+
+```shell
+$ profiler start
+Started [cpu] profiling
+```
+
+获取已采集的sample的数量
+
+```shell
+$ profiler getSamples
+23
+```
+
+查看 profiler状态，可以查看当前 profiler 在采样哪种 `event `和进行的采样时间。
+
+$ profiler status
+
+[cpu] profiling is running for 4 seconds
+
+**停止profiler**
+
+生成svg格式火焰图
+
+```shell
+$ profiler stop
+profiler output file: /tmp/demo/arthas-output/20191125-135546.svg
+OK
+```
+
+默认情况下，生成的结果保存到应用的`工作目录`下的`arthas-output`目录。可以通过 `--file`参数来指定输出结果路径。
+
+比如：
+
+```shell
+$ profiler stop --file /tmp/output.svg
+```
+
+**HTML 格式输出**
+
+默认情况下，结果文件是`svg`格式，如果想生成`html`格式，可以用`--format`参数指定：$ profiler stop --format html
+
+**查看 profilter**
+
+默认情况下，arthas使用3658端口，则可以打开： http://localhost:3658/arthas-output/ 查看到`arthas-output`目录下面的profiler结果：
+
+![img](https://alibaba.github.io/arthas/_images/arthas-output.jpg)
+
+点击可以查看具体的结果：**火焰图里，横条越长，代表使用的越多，从下到上是调用堆栈信息**
+
+![img](https://alibaba.github.io/arthas/_images/arthas-output-svg.jpg)
+
+**profilter 自持多种分析方式，**常见的有 event: cpu|alloc|lock|cache-misses etc. 比如要分析内存使用情况。
+
+$ profiler start --event alloc
+
+### 4.5.2. 复杂命令
+
+比如开始采样：
+
+```shell
+profiler execute 'start'
+```
+
+停止采样，并保存到指定文件里：
+
+```shell
+profiler execute 'stop,file=/tmp/result.svg'
+```
+
+
+
 文中代码已经上传到 [Github](https://github.com/niumoo/lab-notes/tree/master/src/main/java/net/codingme/arthas)。
 
 https://github.com/niumoo/lab-notes/tree/master/src/main/java/net/codingme/arthas 
