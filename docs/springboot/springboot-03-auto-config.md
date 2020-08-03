@@ -107,7 +107,7 @@ protected List<String> getCandidateConfigurations(AnnotationMetadata metadata,
 ```
 下图是 DEBUG 模式下筛选之后的结果，因为我只添加了 web 模块，所以只有 web 相关的自动配置。
 
-![筛选过后的自动配置](https://user-images.githubusercontent.com/26371673/50733348-ec781400-11c6-11e9-8f0d-01797d797d69.png)
+![筛选过后的自动配置](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/50733348-ec781400-11c6-11e9-8f0d-01797d797d69.png)
 
 ## 3. xxxAutoConfiguration 与 xxxProperties
 
