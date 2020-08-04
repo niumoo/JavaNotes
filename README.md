@@ -137,7 +137,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 ### ⏳ 小算法
 
 - [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md) | [微信链接](https://mp.weixin.qq.com/s/jNIxbw9sUPMZr_Fw_EFKFQ)
-
+- [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-java-download.md) | [微信链接](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
 ### 💬 消息中间件
 
 - [消息队列中间件（三）Kafka 入门指南](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-kafka-introduction.md)| [微信链接](https://mp.weixin.qq.com/s/FtVl7ZJXetA95c_9BtsXhg)
