@@ -3,7 +3,7 @@ title: 一篇有趣的负载均衡算法实现
 date: 2020-05-29 07:37:19
 url: algorithm/load-balancing
 categories:
-- 算法
+- Java 开发
 tags:
 - 负载均衡
 ---

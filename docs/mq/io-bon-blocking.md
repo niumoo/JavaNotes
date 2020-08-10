@@ -8,7 +8,7 @@ tags:
  - 非阻塞IO
  - NonBlocking IO
 categories:
- - IO 通信
+ - 中间件通信
 ---
 
 > 文章已经收录在 [Github.com/niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) ，更有 Java 程序员所需要掌握的核心知识，欢迎Star和指教。  
