@@ -21,7 +21,7 @@
 
 - [最通俗易懂的 HashMap 源码分析解读](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
 - [还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-concurrent-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
-- 集合 - ArrayList & LinkedList & Vector
+- [集合 - ArrayList & LinkedList](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-arrayList-linkedList)
 - 集合 - CopyOnWriteArrayList
 - 集合 - HashSet & TreeSet & LinkedHashSet
 - 基本类 - Object
