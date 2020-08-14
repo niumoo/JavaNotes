@@ -1,10 +1,10 @@
 ---
 title: 还不懂 ConcurrentHashMap ？这份源码分析了解一下
 date: 2020-04-07 08:01:01
-url: jdk/concurrent_hashmap
+url: jdk/concurrent-hashmap
 tags:
  - HashMap
- - ConcurrentHashMap
+ - ConcruuentHashMap
 categories:
  - Java 源码分析
 ---

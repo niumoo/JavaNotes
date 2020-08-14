@@ -39,7 +39,9 @@ HTTP协议工作于客户端-服务端架构为上。浏览器作为HTTP客户�
 
 ### HTTP的URL(UniformResourceLocator)
 URL格式：
- >　http://host[:port][abs_path]
+ ```
+ http://host[:port][abs_path]
+```
 
 `http`表示要通过HTTP协议来定位网络资源。
 `host`表示合法的Internet主机域名或IP地址（以点分十进制格式表示）。
@@ -52,6 +54,7 @@ URL格式：
  ![HTTP 消息格式](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/ae3fe2acba5a78462d247d03cccaa3ec.jpg) 
 
 先来看下HTTP的请求消息头：
+```
  - Accept: text/html,image/* 【浏览器告诉服务器，它支持的数据类型】
  - Accept-Charset: ISO-8859-1 【浏览器告诉服务器，它支持哪种字符集】
  - Accept-Encoding: gzip,compress 【浏览器告诉服务器，它支持的压缩格式】
@@ -63,7 +66,7 @@ URL格式：
  - Cookie【浏览器告诉服务器，带来的Cookie是什么】
  - Connection: close/Keep-Alive 【浏览器告诉服务器，请求完后是断开链接还是保持链接】
  - Date: Tue, 11 Jul 2000 18:23:51 GMT【浏览器告诉服务器，请求的时间
-
+```
 使用Chrome请求网址进行观察：
  ![](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/2019/6e442fc98cc8988ef631f7103f213b0b.jpg) 
 Chrome请求信息

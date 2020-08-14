@@ -1,5 +1,5 @@
 ---
-title: [源码分析]ArrayList和LinkedList如何实现的？我看你还有机会！
+title: 「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！
 date: 2020-08-12 08:01:01
 url: jdk/src-arraylist-linkedlist
 tags:
