@@ -1,4 +1,4 @@
-**原创文章每周更新**。公众号首发。技术文字在写的过程中难免会有纰漏，或者细节不够完善。大家发现问题，可以及时给我 PR 反馈，也可以去 [**公众号**](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7) 给我留言，或者加我 [微信](https://github.com/niumoo/JavaNotes#联系我) 直接说明，我都会及时更正，哪怕是一个错别字。加油！奥利给！
+**原创文章每周更新**。公众号首发。技术文字在写的过程中难免会有纰漏，或者细节不够完善。大家发现问题，可以及时给我 PR 反馈，也可以去 [公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7) 给我留言，或者加我 [微信](https://github.com/niumoo/JavaNotes#联系我) 直接说明，我都会及时更正，哪怕是一个错别字。加油！奥利给！
 
 <h1 align="center"> Java Notes </h1>
 <p align="center">
@@ -11,9 +11,9 @@
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
 
-目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，欢迎你的 :star: ，有问题或者建议可以[**一起完善**](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
+目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，欢迎你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
-**注：如果Github 访问较慢**，可以访问每篇文章后面的**微信链接**，也可以访问网站 [**www.wdbyte.com**](https://www.wdbyte.com) 阅读。
+**注：如果Github 访问较慢**，可以访问每篇文章后面的**微信链接**，也可以访问网站 [**https://www.wdbyte.com**](https://www.wdbyte.com) 阅读。
 
 
 
@@ -104,6 +104,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 ### 🔍 Java 性能分析
 
+- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-jmh.md) | [微信链接](https://mp.weixin.qq.com/s/-0enKREKarGRipk0PkXgBA)
 - [Arthas - Java 线上问题定位处理的终极利器](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-arthas.md)| [微信链接](https://mp.weixin.qq.com/s/AZSlr2mWXL1-GFOBYVBA1g)
 - [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-async-profiler.md)| [微信链接](https://mp.weixin.qq.com/s/Fvacprgk7fYvo7qS1liHDg)
 
@@ -125,7 +126,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 一款好用的工具，不仅可以装X，更可以让你事半功倍，准时下班。
 
-- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-jmh.md) | [微信链接](https://mp.weixin.qq.com/s/-0enKREKarGRipk0PkXgBA)
 - [可以Postman，也可以cURL.进来领略下cURL的独门绝技](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-curl.md) | [微信链接](https://mp.weixin.qq.com/s/jK4ctq5VQjw4oPSO0gEp6Q)
 - [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-idea-skill.md)| [微信链接](https://mp.weixin.qq.com/s/-jzzxd_eEmTGVntabhT-CA)
 - [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
