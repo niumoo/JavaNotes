@@ -11,7 +11,7 @@
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
 
-目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，欢迎你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
+目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，感谢你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
 **注：如果Github 访问较慢**，可以访问每篇文章后面的**微信链接**，也可以访问网站 [**https://www.wdbyte.com**](https://www.wdbyte.com) 阅读。
 
@@ -19,16 +19,16 @@
 
 ### 🔬 JDK 源码分析 
 
-**面试必备**的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
+面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
 
-- [最通俗易懂的 HashMap 源码分析解读](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
-- [还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-concurrent-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
+- [集合 - 最通俗易懂的 HashMap 源码分析解读](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
+- [集合 - 还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-concurrent-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
 - [集合 - ArrayList和LinkedList如何实现的？我看你还有机会！](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-arrayList-linkedList.md) | [微信链接](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
 - 集合 - CopyOnWriteArrayList
 - 集合 - HashSet & TreeSet & LinkedHashSet
-- 基本类 - Object
-- 基本类 - String 
-- 基本类 - StringBuffer & StringBuilder
+- 基础类 - Object
+- 基础类 - String 
+- 基础类 - StringBuffer & StringBuilder
 
 ### 🌿 SpringBoot 2.x 
 
