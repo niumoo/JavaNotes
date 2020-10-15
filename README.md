@@ -13,7 +13,7 @@
 
 目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，感谢你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
-**注：如果Github 访问较慢**，可以访问每篇文章后面的**微信链接**，也可以访问网站 [**https://www.wdbyte.com**](https://www.wdbyte.com) 阅读。
+文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
 
 
@@ -65,11 +65,12 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 11 新特性讲解](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-11-feature.md) | [微信链接](https://mp.weixin.qq.com/s/hmuiDzLG7gakeVjvaKV6UA)
 - [Java 10 新特性讲解](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-10-feature.md) | [微信链接](https://mp.weixin.qq.com/s/0ecCpeoeNRB8RLKvD9ktdQ)
 - [Java 09 新特性讲解](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-09-feature.md) | [微信链接](https://mp.weixin.qq.com/s/qQ9qysceiJdu9sYpl-7W6A)
-- [Java 8 新特性 - 超强的 Stream 流操作姿势](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-08-feature-stream.md) | [微信链接](https://mp.weixin.qq.com/s/qKowwsJNd4PUaZ1XVbTBNQ)
-- [Java 8 新特性 - Lambda 表达式、函数接口](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-08-feature-lambda.md) | [微信链接](https://mp.weixin.qq.com/s/FPKyOyiKPQBLdrF0bf9nHw)
-- [Java 8 新特性 - 时间处理姿势](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-08-feature-time.md) | [微信链接](https://mp.weixin.qq.com/s/bbuItfxLgemJRuFb6iqWzA)
-- [Java 8 新特性 - 使用 Optional优雅的处理空指针？](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-08-feature-optional.md) | [微信链接](https://mp.weixin.qq.com/s/nPcqSgNkLrxdfqX8RWmCgA)
-- [Java 7 新特性讲解](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-07-feature.md) | [微信链接](https://mp.weixin.qq.com/s/fdW1wwcYgg0INixN4BtgbQ)
+- [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://mp.weixin.qq.com/s/qKowwsJNd4PUaZ1XVbTBNQ) 
+- [Java 8 新特性 - 还看不懂同事的代码？Lambda 表达式、函数接口了解一下](https://mp.weixin.qq.com/s/FPKyOyiKPQBLdrF0bf9nHw) 
+- [Java 8 新特性 - 新的时间处理姿势还不了解一下？](https://mp.weixin.qq.com/s/bbuItfxLgemJRuFb6iqWzA) 
+- [Java 8 新特性 - 使用 Optional优雅的处理空指针？](https://mp.weixin.qq.com/s/nPcqSgNkLrxdfqX8RWmCgA)
+- [Java 7 新特性 - 还看不懂同事代码？快来补一波 Java 7 语法特性](https://mp.weixin.qq.com/s/fdW1wwcYgg0INixN4BtgbQ)
+- [java 7 新特性 - 和低效 IO 说再见，回头补一波 Java 7 的 NIO.2 特性](https://mp.weixin.qq.com/s/STux58HOjz4eAZ3sHYFVzw)
 
 ### 💻 Java 并发编程
 
