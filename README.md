@@ -21,10 +21,10 @@
 
 面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
 
-- [集合 - 最通俗易懂的 HashMap 源码分析解读](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
-- [集合 - 还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-concurrent-hashmap.md) | [微信链接](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
-- [集合 - ArrayList和LinkedList如何实现的？我看你还有机会！](https://github.com/niumoo/JavaNotes/blob/master/docs/jdk/java-src-arrayList-linkedList.md) | [微信链接](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
-- 集合 - CopyOnWriteArrayList
+- [集合 - 「源码分析」最通俗易懂的 HashMap 源码分析解读](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
+- [集合 - 「源码分析」还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
+- [集合 - 「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
+- [集合 -「源码分析」CopyOnWriteArrayList 中的隐藏知识，你Get了吗？](https://mp.weixin.qq.com/s/NbBUmNkp5JqDGp_WRA3GGA)
 - 集合 - HashSet & TreeSet & LinkedHashSet
 - 基础类 - Object
 - 基础类 - String 
@@ -70,7 +70,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 8 新特性 - 新的时间处理姿势还不了解一下？](https://mp.weixin.qq.com/s/bbuItfxLgemJRuFb6iqWzA) 
 - [Java 8 新特性 - 使用 Optional优雅的处理空指针？](https://mp.weixin.qq.com/s/nPcqSgNkLrxdfqX8RWmCgA)
 - [Java 7 新特性 - 还看不懂同事代码？快来补一波 Java 7 语法特性](https://mp.weixin.qq.com/s/fdW1wwcYgg0INixN4BtgbQ)
-- [java 7 新特性 - 和低效 IO 说再见，回头补一波 Java 7 的 NIO.2 特性](https://mp.weixin.qq.com/s/STux58HOjz4eAZ3sHYFVzw)
+- [Java 7 新特性 - 和低效 IO 说再见，回头补一波 Java 7 的 NIO.2 特性](https://mp.weixin.qq.com/s/STux58HOjz4eAZ3sHYFVzw)
 
 ### 💻 Java 并发编程
 
@@ -105,9 +105,9 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 ### 🔍 Java 性能分析
 
-- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-jmh.md) | [微信链接](https://mp.weixin.qq.com/s/-0enKREKarGRipk0PkXgBA)
-- [Arthas - Java 线上问题定位处理的终极利器](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-arthas.md)| [微信链接](https://mp.weixin.qq.com/s/AZSlr2mWXL1-GFOBYVBA1g)
-- [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-async-profiler.md)| [微信链接](https://mp.weixin.qq.com/s/Fvacprgk7fYvo7qS1liHDg)
+- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://mp.weixin.qq.com/s/-0enKREKarGRipk0PkXgBA)
+- [Arthas - Java 线上问题定位处理的终极利器](https://mp.weixin.qq.com/s/AZSlr2mWXL1-GFOBYVBA1g)
+- [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://mp.weixin.qq.com/s/Fvacprgk7fYvo7qS1liHDg)
 
 ### 🧱 数据结构
 
