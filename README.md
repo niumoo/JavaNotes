@@ -21,9 +21,9 @@
 
 面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
 
-- [集合 - 「源码分析」最通俗易懂的 HashMap 源码分析解读](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
-- [集合 - 「源码分析」还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
-- [集合 - 「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
+- [集合 -「源码分析」最通俗易懂的 HashMap 源码分析解读](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
+- [集合 -「源码分析」还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
+- [集合 -「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
 - [集合 -「源码分析」CopyOnWriteArrayList 中的隐藏知识，你Get了吗？](https://mp.weixin.qq.com/s/NbBUmNkp5JqDGp_WRA3GGA)
 - 集合 - HashSet & TreeSet & LinkedHashSet
 - 基础类 - Object
