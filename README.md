@@ -139,10 +139,17 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 ### ⏳ 开发技巧
 - [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
+
+-  [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
+
 - [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md) | [微信链接](https://mp.weixin.qq.com/s/jNIxbw9sUPMZr_Fw_EFKFQ)
+
 - [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-java-download.md) | [微信链接](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
+
 - [Java 开发的编程噩梦，这些坑你没踩过算我输](https://github.com/niumoo/JavaNotes/blob/master/docs/java/java-think-code-standards.md) | [微信链接](https://mp.weixin.qq.com/s/6JZjVO3rj5WRgdc88XfA0w)
+
 - [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
+
 - [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-mybatis-generator.md)| [网站链接](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
 ### 💬 消息中间件
 

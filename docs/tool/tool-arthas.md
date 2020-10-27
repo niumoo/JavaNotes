@@ -851,9 +851,9 @@ profiler execute 'stop,file=/tmp/result.svg'
 
 
 
-文中代码已经上传到 [Github](https://github.com/niumoo/lab-notes/tree/master/src/main/java/net/codingme/arthas)。
+文中代码已经上传到 [Github](https://github.com/niumoo/lab-notes/tree/master/web-arthas)。
 
-https://github.com/niumoo/lab-notes/tree/master/src/main/java/net/codingme/arthas 
+https://github.com/niumoo/lab-notes/tree/master/web-arthas
 
 **最后的话**
 
