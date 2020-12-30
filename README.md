@@ -34,6 +34,7 @@
 
 下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot) 仓库。
 
+- [Springboot 系列（十九）SpringBoot 的多数据源配置](https://mp.weixin.qq.com/s/4at3FyunITJPRO6WHa9BEQ)
 - [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://mp.weixin.qq.com/s/4ffDc99rzUEM3c4ZoTHsIA)
 - [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://mp.weixin.qq.com/s/AwlTf2MIx_Rp8jL4CcX3AA)
 - [Springboot 系列（十六）你真的了解 Swagger 文档吗？](https://mp.weixin.qq.com/s/fE9-SI6mJzMD2S9TpKRyAg)
