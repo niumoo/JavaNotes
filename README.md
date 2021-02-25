@@ -139,6 +139,9 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Ubuntu18 的超详细常用软件安装](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-ubuntu-start.md)| [微信链接](https://mp.weixin.qq.com/s/AKlVxkzwoyvcLDPPXlpm8g)
 
 ### ⏳ 开发技巧
+
+- [三种骚操作绕过迭代器遍历时的数据修改异常](https://mp.weixin.qq.com/s/jvrb75rlo8iZAZS7bTuPfw)
+
 - [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
 
 -  [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
