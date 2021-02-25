@@ -62,8 +62,8 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 - Java 14 新特性讲解
 - Java 13 新特性讲解
-- Java 12 新特性讲解
-- [Java 11 新特性讲解](https://mp.weixin.qq.com/s/hmuiDzLG7gakeVjvaKV6UA) 
+- [Java 12 新特性讲解](https://mp.weixin.qq.com/s/V_MLtqzxa9ijgW6w6Pqocg)
+- [Java 11 新特性介绍](https://mp.weixin.qq.com/s/hmuiDzLG7gakeVjvaKV6UA) 
 - [Java 10 新特性讲解](https://mp.weixin.qq.com/s/0ecCpeoeNRB8RLKvD9ktdQ) 
 - [Java 09 新特性讲解](https://mp.weixin.qq.com/s/qQ9qysceiJdu9sYpl-7W6A)
 - [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://mp.weixin.qq.com/s/qKowwsJNd4PUaZ1XVbTBNQ) 
