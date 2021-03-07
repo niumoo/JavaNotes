@@ -1,4 +1,4 @@
-**原创文章每周更新**。公众号首发。技术文字在写的过程中难免会有纰漏，或者细节不够完善。大家发现问题，可以及时给我 PR 反馈，也可以去 [公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7) 给我留言，或者加我 [微信](https://github.com/niumoo/JavaNotes#联系我) 直接说明，我都会及时更正，哪怕是一个错别字。加油！奥利给！
+> **原创文章每周更新**。公众号首发。技术文字在写的过程中难免会有纰漏，或者细节不够完善。大家发现问题，可以及时给我 PR 反馈，也可以去 [公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7) 给我留言，或者加我 [微信](https://github.com/niumoo/JavaNotes#联系我) 直接说明，我都会及时更正，哪怕是一个错别字。加油！奥利给！
 
 <h1 align="center"> Java Notes </h1>
 <p align="center">
@@ -11,9 +11,9 @@
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
 
-目录中没有链接的部分，后续每周更新（2020年有的写了），项目刚刚建立，感谢你的 :star: ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
+目录中没有链接的部分，后续更新，感谢你的 ​STAR​ ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
-文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
+文章内容也都可以访问网站 [www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
 
 
@@ -60,6 +60,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 持续更新中，下面所有文字的代码演示和 Demo 都在这里 [Github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature).
 
+- Java 15 新特性讲解
 - Java 14 新特性讲解
 - Java 13 新特性讲解
 - [Java 12 新特性讲解](https://mp.weixin.qq.com/s/V_MLtqzxa9ijgW6w6Pqocg)
