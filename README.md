@@ -54,6 +54,13 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 11 新特性介绍](https://mp.weixin.qq.com/s/hmuiDzLG7gakeVjvaKV6UA) 
 - [Java 10 新特性讲解](https://mp.weixin.qq.com/s/0ecCpeoeNRB8RLKvD9ktdQ) 
 - [Java 09 新特性讲解](https://mp.weixin.qq.com/s/qQ9qysceiJdu9sYpl-7W6A)
+- [Java 8 函数接口 UnaryOperator ](java8/java8-unaryoperaotr)
+- [Java 8 函数接口 BiPredicate ](/java8/java8-bipredicate)
+- [Java 8 函数接口 BiFunction ](/java8/java8-bifunction/)
+- [Java 8 函数接口 Supplier ](/java8/java8-supplier/)
+- [Java 8 函数接口 Predicate ](/java8/java8-predicate/)
+- [Java 8 函数接口 Function ](/java8/java8-function/)
+- [Java 8 新特性 - forEach 遍历](/java8/java8-foreach/)
 - [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://mp.weixin.qq.com/s/qKowwsJNd4PUaZ1XVbTBNQ) 
 - [Java 8 新特性 - 还看不懂同事的代码？Lambda 表达式、函数接口了解一下](https://mp.weixin.qq.com/s/FPKyOyiKPQBLdrF0bf9nHw) 
 - [Java 8 新特性 - 新的时间处理姿势还不了解一下？](https://mp.weixin.qq.com/s/bbuItfxLgemJRuFb6iqWzA) 
@@ -174,23 +181,21 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 GitHub：[https://github.com/niumoo](https://github.com/niumoo)
 
-CSDN：[https://niumoo.blog.csdn.net/](https://niumoo.blog.csdn.net/)
+CSDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
 
 博客园：[https://www.cnblogs.com/niumoo/](https://www.cnblogs.com/niumoo/)
 
 掘    金：[https://juejin.im/user/5a62d481f265da3e2a0dac9b](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
 
-思    否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
-
 知    乎：[https://www.zhihu.com/people/bpdwn](https://www.zhihu.com/people/bpdwn)
 
-公众号： **未读代码** 
+思    否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
 
 ### 联系我
 
 可以添加我的微信 <u>wn8398</u> 一起交流。
 
-<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wechat.jpg" width="250px" alt="微信">
+<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wx.png" width="250px" alt="微信">
 
 ### 公众号
 
@@ -198,4 +203,5 @@ CSDN：[https://niumoo.blog.csdn.net/](https://niumoo.blog.csdn.net/)
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注「 **未读代码** 」公众号。
 
-![公众号](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/weixin-public.jpg)
+<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wp.png" width="250px" alt="微信">
+
