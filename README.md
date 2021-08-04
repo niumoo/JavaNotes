@@ -6,7 +6,7 @@
 <p align="center">
 <a href="#联系我" rel="nofollow"><img src="https://img.shields.io/badge/wechat-微信-9cf.svg" alt="wechat" data-canonical-src="https://img.shields.io/badge/wechat-微信-9cf.svg" style="max-width:100%;"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-未读代码-success.svg" alt="公众号" data-canonical-src="https://img.shields.io/badge/公众号-未读代码-success.svg" style="max-width:100%;"></a>
-   <a href="https://niumoo.blog.csdn.net" rel="nofollow"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN" data-canonical-src="https://img.shields.io/badge/csdn-CSDN-red.svg" style="max-width:100%;"></a>
+   <a href="https://blog.csdn.net/u013735734" rel="nofollow"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN" data-canonical-src="https://img.shields.io/badge/csdn-CSDN-red.svg" style="max-width:100%;"></a>
    <a href="https://juejin.im/user/5a62d481f265da3e2a0dac9b" rel="nofollow"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金" data-canonical-src="https://img.shields.io/badge/juejin-掘金-blue.svg" style="max-width:100%;"></a>
    <a href="https://www.cnblogs.com/niumoo/" rel="nofollow"><img src="https://img.shields.io/badge/cnblogs-博客园-inactive.svg" alt="博客园" data-canonical-src="https://img.shields.io/badge/cnblogs-博客园-inactive.svg" style="max-width:100%;"></a>
    <a href="https://www.zhihu.com/people/bpdwn" rel="nofollow"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎" data-canonical-src="https://img.shields.io/badge/zhihu-知乎-blue.svg" style="max-width:100%;"></a>
@@ -17,71 +17,77 @@
 
 文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
-### 🌿 SpringBoot 2.x 
+## 🌿 SpringBoot 2.x 教程
 
-下面所有 SpringBoot 2.x 文章对应的代码示例都在这里 [Github.com/niumoo/springboot](https://github.com/niumoo/springboot) 仓库。
+使用 **Spring Boot** 可以快速的创建一个基于Spring 的、独立的、生产级的应用程序，并且可以直接运行。Spring Boot 采用习惯性配置，整合大量 Spring 组建和第三方库，让你只需要少量的修改就可以轻松上手。
 
-- [Springboot 系列（十九）SpringBoot 的多数据源配置](https://mp.weixin.qq.com/s/4at3FyunITJPRO6WHa9BEQ)
-- [Springboot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://mp.weixin.qq.com/s/4ffDc99rzUEM3c4ZoTHsIA)
-- [Springboot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://mp.weixin.qq.com/s/AwlTf2MIx_Rp8jL4CcX3AA)
-- [Springboot 系列（十六）你真的了解 Swagger 文档吗？](https://mp.weixin.qq.com/s/fE9-SI6mJzMD2S9TpKRyAg)
-- [Springboot 系列（十五）如何编写自己的 Springboot starter](https://mp.weixin.qq.com/s/V-uPpfNxnhXRNa6ExfUD-A) 
-- [Springboot 系列（十四）迅速启用 HTTPS 加密你的网站](https://mp.weixin.qq.com/s/TwL_IRTzN9wubuw0ddXZbQ) 
-- [Springboot 系列（十三）使用邮件服务](https://mp.weixin.qq.com/s/WTpc6A39ikZR_uM6sUf1CA) 
-- [Springboot 系列（十二）使用 Mybatis 集成 pagehelper 分页插件和 mapper 插件](https://mp.weixin.qq.com/s/Eij-GU3yQijyYmQcsghsgg)
-- [Springboot 系列（十一）使用 Mybatis（自动生成插件） 访问数据库](https://mp.weixin.qq.com/s/-8ytSdjKGmukdNKx_f0jLw) 
-- [Springboot 系列（十）使用 Spring data jpa 访问数据库](https://mp.weixin.qq.com/s/oyD4P074A0wj7rU5rB4EFw) 
-- [Springboot 系列（九）使用 Spring JDBC 和 Druid 数据源监控](https://mp.weixin.qq.com/s/lp-mmjocibzPB8-CnGSe4Q) 
-- [Springboot 系列（八）动态Banner与图片转字符图案的手动实现](https://mp.weixin.qq.com/s/nQq3KS7l2B9wr90aOe0cEw) 
-- [Springboot 系列（七）web 开发之异常错误处理机制剖析](https://mp.weixin.qq.com/s/AidIrbZm3FSWAqo5_2QE2g) 
-- [Springboot 系列（六）web 开发之拦截器和三大组件](https://mp.weixin.qq.com/s/yM87mQC4HQ5O_ZyunW0JkQ)
-- [Springboot 系列（五）web 开发之静态资源和模版引擎](https://mp.weixin.qq.com/s/IFzyTlpkAyHY4Li4mPERKg)
-- [Springboot 系列（四）Spring Boot 日志框架](https://mp.weixin.qq.com/s/fpSmM7fXFTVRV_5qP94xXw)
-- [Springboot 系列（三）Spring Boot 自动配置](https://mp.weixin.qq.com/s/fehMKv3DUTnB2w_0cSdnhQ)
-- [Springboot 系列（二）Spring Boot 配置文件](https://mp.weixin.qq.com/s/g_yISWxL7mpGvqaT9uKa4g)
-- [Springboot 系列（一）Spring Boot 入门篇](https://mp.weixin.qq.com/s/iQapGQ3oErzBTxCvD7USNw)
+- [Spring Boot 系列（一）Spring Boot 入门篇](https://www.wdbyte.com/2019/01/springboot/springboot01-quick-start/)
+- [Spring Boot 系列（二）Spring Boot 配置文件](https://www.wdbyte.com/2019/01/springboot/springboot01-config/)
+- [Spring Boot 系列（三）Spring Boot 自动配置](https://www.wdbyte.com/2019/01/springboot/springboot03-auto-config/)
+- [Spring Boot 系列（四）Spring Boot 日志框架](https://www.wdbyte.com/2019/01/springboot/springboot04-log/)
+- [Spring Boot 系列（五）web 开发之静态资源和模版引擎](https://www.wdbyte.com/2019/02/springboot/springboot-05-web-static-template/)
+- [Spring Boot 系列（六）web 开发之拦截器和三大组件](https://www.wdbyte.com/2019/02/springboot/springboot-06-web-filter-apo-webbase/)
+- [Spring Boot 系列（七）web 开发之异常错误处理机制剖析](https://www.wdbyte.com/2019/02/springboot/springboot-07-web-exception/)
+- [Spring Boot 系列（八）动态 Banner 与图片转字符图案的手动实现](https://www.wdbyte.com/2019/02/springboot/springboot-08-banner/)
+- [Spring Boot 系列（九）使用 Spring JDBC 和 Druid 数据源监控](https://www.wdbyte.com/2019/02/springboot/springboot-09-data-jdbc/)
+- [Spring Boot 系列（十）使用 Spring data jpa 访问数据库](https://www.wdbyte.com/2019/03/springboot/springboot-10-data-jpa/)
+- [Spring Boot 系列（十一）使用 Mybatis（自动生成插件） 访问数据库](https://www.wdbyte.com/2019/03/springboot/springboot-11-data-mybatis/)
+- [Spring Boot 系列（十二）使用 Mybatis 集成 pagehelper 分页插件和 mapper 插件](https://www.wdbyte.com/2019/03/springboot/springboot-12-data-mybatis-page/)
+- [Spring Boot 系列（十三）使用邮件服务](https://www.wdbyte.com/2019/03/springboot/springboot-13-email/)
+- [Spring Boot 系列（十四）迅速启用 HTTPS 加密你的网站](https://www.wdbyte.com/2019/08/springboot/springboot-14-https/)
+- [Spring Boot 系列（十五）如何编写自己的 Springboot starter](https://www.wdbyte.com/2019/11/springboot/springboot-15-my-starter/)
+- [Spring Boot 系列（十六）你真的了解 Swagger 文档吗？](https://www.wdbyte.com/2019/11/springboot/springboot-16-web-swagger/)
+- [Spring Boot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://www.wdbyte.com/2019/12/springboot/springboot-17-admin/)
+- [Spring Boot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://www.wdbyte.com/2020/03/springboot/springboot-18-module/)
+- [Spring Boot 系列（十九）SpringBoot 的多数据源配置](https://www.wdbyte.com/2020/12/springboot/springboot-multiple-datasource/)
 
-### ☕ Java 新特性
+
+以上 Spring Boot 文章源码：[Github.com/niumoo/springboot](https://github.com/niumoo/springboot/)
+
+## ☕ Java 新特性
 
 Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错，何况有些新特性是**真香**。
-
-持续更新中，下面所有文字的代码演示和 Demo 都在这里 [Github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature).
 
 - Java 15 新特性讲解
 - Java 14 新特性讲解
 - Java 13 新特性讲解
-- [Java 12 新特性讲解](https://mp.weixin.qq.com/s/V_MLtqzxa9ijgW6w6Pqocg)
-- [Java 11 新特性介绍](https://mp.weixin.qq.com/s/hmuiDzLG7gakeVjvaKV6UA) 
-- [Java 10 新特性讲解](https://mp.weixin.qq.com/s/0ecCpeoeNRB8RLKvD9ktdQ) 
-- [Java 09 新特性讲解](https://mp.weixin.qq.com/s/qQ9qysceiJdu9sYpl-7W6A)
-- [Java 8 函数接口 UnaryOperator ](java8/java8-unaryoperaotr)
-- [Java 8 函数接口 BiPredicate ](/java8/java8-bipredicate)
-- [Java 8 函数接口 BiFunction ](/java8/java8-bifunction/)
-- [Java 8 函数接口 Supplier ](/java8/java8-supplier/)
-- [Java 8 函数接口 Predicate ](/java8/java8-predicate/)
-- [Java 8 函数接口 Function ](/java8/java8-function/)
-- [Java 8 新特性 - forEach 遍历](/java8/java8-foreach/)
-- [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://mp.weixin.qq.com/s/qKowwsJNd4PUaZ1XVbTBNQ) 
-- [Java 8 新特性 - 还看不懂同事的代码？Lambda 表达式、函数接口了解一下](https://mp.weixin.qq.com/s/FPKyOyiKPQBLdrF0bf9nHw) 
-- [Java 8 新特性 - 新的时间处理姿势还不了解一下？](https://mp.weixin.qq.com/s/bbuItfxLgemJRuFb6iqWzA) 
-- [Java 8 新特性 - 使用 Optional优雅的处理空指针？](https://mp.weixin.qq.com/s/nPcqSgNkLrxdfqX8RWmCgA)
-- [Java 7 新特性 - 还看不懂同事代码？快来补一波 Java 7 语法特性](https://mp.weixin.qq.com/s/fdW1wwcYgg0INixN4BtgbQ)
-- [Java 7 新特性 - 和低效 IO 说再见，回头补一波 Java 7 的 NIO.2 特性](https://mp.weixin.qq.com/s/STux58HOjz4eAZ3sHYFVzw)
+- [Java 12 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk12-feature/)
+- [Java 11 新特性介绍](https://www.wdbyte.com/2020/03/jdk/jdk11-feature/)
+- [Java 10 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk10-feature/)
+- [Java 9 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk9-feature/)
+- [Java 8 函数接口 UnaryOperator ](https://www.wdbyte.com/java8/java8-unaryoperaotr)
+- [Java 8 函数接口 BiPredicate ](https://www.wdbyte.com/java8/java8-bipredicate)
+- [Java 8 函数接口 BiFunction ](https://www.wdbyte.com/java8/java8-bifunction/)
+- [Java 8 函数接口 Supplier ](https://www.wdbyte.com/java8/java8-supplier/)
+- [Java 8 函数接口 Predicate ](https://www.wdbyte.com/java8/java8-predicate/)
+- [Java 8 函数接口 Function ](https://www.wdbyte.com/java8/java8-function/)
+- [Java 8 新特性 - forEach 遍历](https://www.wdbyte.com/java8/java8-foreach/)
 
-### 🔬 JDK 源码分析 
+- [Java 8 LocalDate、LocalDateTime 时间处理介绍](https://www.wdbyte.com/2019/10/jdk/jdk8-time/)
+- [Java 8 使用 Optional优雅的处理空指针](https://www.wdbyte.com/2019/11/jdk/jdk8-optional/)
+- [Java 8 新特性 - Lambda 表达式、函数接口了解一下](https://www.wdbyte.com/2019/11/jdk/jdk8-lambda/)
+- [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://www.wdbyte.com/2019/11/jdk/jdk8-stream/)
+- [Java 7 新特性 - 和低效 IO 说再见，Files,Paths,Path 文件操作介绍](https://www.wdbyte.com/2020/09/jdk/jdk7-file-pahs/)
+- [Java 7 新特性 - 新特性 - 快来补一波 Java 7 语法特性](https://www.wdbyte.com/2020/01/jdk/jdk7-start/)
+
+以上 Java 新功能文章源码： [Github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature)
+
+## 🔬 JDK 源码分析 
 
 面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
 
-- [集合 -「源码分析」最通俗易懂的 HashMap 源码分析解读](https://mp.weixin.qq.com/s/q-rWq79HmzPe08gyfOjaIA)
-- [集合 -「源码分析」还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://mp.weixin.qq.com/s/AHWzboztt53ZfFZmsSnMSw)
-- [集合 -「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！](https://mp.weixin.qq.com/s/_x3K_iK4ZimLL4qdS7UZ8Q)
-- [集合 -「源码分析」CopyOnWriteArrayList 中的隐藏知识，你Get了吗？](https://mp.weixin.qq.com/s/NbBUmNkp5JqDGp_WRA3GGA)
-- 集合 - HashSet & TreeSet & LinkedHashSet
+- [集合 -「源码分析」CopyOnWriteArrayList 中的隐藏的知识，你Get了吗？](https://www.wdbyte.com/2020/10/jdk/src-copyonwritearraylist/)
+- [集合 -「源码分析」ArrayList和LinkedList如何实现的？我看你还有机会！](https://www.wdbyte.com/2020/08/jdk/src-arraylist-linkedlist/)
+- [集合 -「源码分析」还不懂 ConcurrentHashMap ？这份源码分析了解一下](https://www.wdbyte.com/2020/04/jdk/concurrent-hashmap/)
+- [集合 -「源码分析」最通俗易懂的 HashMap 源码分析解读](https://www.wdbyte.com/2020/03/jdk/hashmap/)
+- 集合 -「源码分析」TreeSet
+- 集合 -「源码分析」LinkedHashSet
 - 基础类 - Object
 - 基础类 - String 
 - 基础类 - StringBuffer & StringBuilder
 
-### 💻 Java 并发编程
+
+## 💻 Java 并发编程
 
 - 线程基础之通知、等待、休眠、让行、中断
 - ThreadLocal 
@@ -100,7 +106,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 同步器 CountDownLatch、CyclicBarrier、Semaphore
 - Java 并发编程注意事项
 
-### 🕹 Java 虚拟机
+## 🕹 Java 虚拟机
 
 - Java 内存模型
 - 垃圾回收算法
@@ -112,13 +118,13 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 前端编译 & 后端编译 & 优化
 - 锁的自动优化升级策略
 
-### 🔍 Java 性能分析
+## 🔍 Java 性能分析
 
-- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://mp.weixin.qq.com/s/-0enKREKarGRipk0PkXgBA)
-- [Arthas - Java 线上问题定位处理的终极利器](https://mp.weixin.qq.com/s/AZSlr2mWXL1-GFOBYVBA1g)
-- [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://mp.weixin.qq.com/s/Fvacprgk7fYvo7qS1liHDg)
+- [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://www.wdbyte.com/2020/08/develop/tool-jmh/)
+- [Arthas - Java 线上问题定位处理的终极利器](https://www.wdbyte.com/2019/11/arthas/)
+- [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://www.wdbyte.com/2019/12/async-profiler/)
 
-### 🧱 数据结构
+## 🧱 数据结构
 
 - 数组
 - 栈
@@ -129,7 +135,22 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 堆
 - 图
 
-### 🧰 工具技巧
+## ⏳ Java 开发
+
+- [Java 中 RMI 的使用](https://www.wdbyte.com/2021/05/java/java-rmi/)
+- [如何使用 Github Actions 自动抓取每日必应壁纸?](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)
+- [三种骚操作绕过迭代器遍历时的数据修改异常](https://www.wdbyte.com/2021/02/develop/interator-update/)
+- [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://www.wdbyte.com/2020/10/develop/google-guava/)
+- [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://www.wdbyte.com/2020/10/2020-1024/)
+- [一篇有趣的负载均衡算法实现](https://www.wdbyte.com/2020/05/algorithm/load-balancing/)
+- [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://www.wdbyte.com/2020/07/tool/java-download/)
+
+- [Java 开发的编程噩梦，这些坑你没踩过算我输](https://www.wdbyte.com/2020/08/java/java-code-standards/)
+- [如何使用 Lombok 进行优雅的编码](https://www.wdbyte.com/2018/12/develop/tool-lombok/)
+- [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
+- [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
+
+## 🧰 工具技巧
 
 >“工欲善其事，必先利其器”
 >出处：孔子《论语》
@@ -137,51 +158,40 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 一款好用的工具，不仅可以装X，更可以让你事半功倍，准时下班。
 
 
-- [Java 反编译工具的使用与对比分析](https://mp.weixin.qq.com/s/YfmxrtMwNqJvEb0q-ti9sg)
-- [可以Postman，也可以cURL.进来领略下cURL的独门绝技](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-curl.md) | [微信链接](https://mp.weixin.qq.com/s/jK4ctq5VQjw4oPSO0gEp6Q)
-- [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-idea-skill.md)| [微信链接](https://mp.weixin.qq.com/s/-jzzxd_eEmTGVntabhT-CA)
-- [使用Apache Ant 进行Java web项目打包并部署至TOMCAT](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-apache-ant.md)| [网站链接](https://www.wdbyte.com/2017/11/develop/tool-apache-ant/)
-- [Linux配置Tomcat的单机多实例](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-install-tomcat-many-instance.md)| [网站链接](https://www.wdbyte.com/2018/08/develop/install-tomcat-many-instance/)
-- [Linux定时任务crontab的使用](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-crontab.md)| [网站链接](https://www.wdbyte.com/2018/05/linux/linux-crontab/)
-- [原来热加载如此简单，手动写一个 Java 热加载吧](https://www.wdbyte.com/2019/10/jvm/java-hotput/)| [微信链接](https://mp.weixin.qq.com/s/Dpz1x_UyXeIMiA2hc7wZUw)
-- [Manjaro Linux 入门使用教程](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-manjaro.md)| [微信链接](https://mp.weixin.qq.com/s/ulueZbYaADsVbX23Fu-lzQ)
-- [Ubuntu18 的超详细常用软件安装](https://github.com/niumoo/JavaNotes/blob/master/docs/linux/linux-ubuntu-start.md)| [微信链接](https://mp.weixin.qq.com/s/AKlVxkzwoyvcLDPPXlpm8g)
-
-### ⏳ Java 开发
-
-- [Java 中 RMI 的使用](https://mp.weixin.qq.com/s/O8TmNuu5buJVNbnT6JH98Q)
-- [我是如何白嫖 Github 服务器自动抓取每日必应壁纸的？](https://mp.weixin.qq.com/s/-jgVDsVrq2kMGztP9RqMqw)
-- [三种骚操作绕过迭代器遍历时的数据修改异常](https://mp.weixin.qq.com/s/jvrb75rlo8iZAZS7bTuPfw)
-- [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
-- [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://mp.weixin.qq.com/s/sKSsOi-IiLRIgb20KSrgcw)
-- [一篇有趣的负载均衡算法实现](https://github.com/niumoo/JavaNotes/blob/master/docs/algorithm/负载均衡.md) | [微信链接](https://mp.weixin.qq.com/s/jNIxbw9sUPMZr_Fw_EFKFQ)
-- [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-java-download.md) | [微信链接](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
-- [Java 开发的编程噩梦，这些坑你没踩过算我输](https://github.com/niumoo/JavaNotes/blob/master/docs/java/java-think-code-standards.md) | [微信链接](https://mp.weixin.qq.com/s/6JZjVO3rj5WRgdc88XfA0w)
-- [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
-- [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-mybatis-generator.md)| [网站链接](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
-### 💬 消息中间件
-
-- [消息队列中间件（三）Kafka 入门指南](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-kafka-introduction.md)| [微信链接](https://mp.weixin.qq.com/s/FtVl7ZJXetA95c_9BtsXhg)
-- [消息队列中间件（二）使用 ActiveMQ](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-activemq.md) | [微信链接](https://mp.weixin.qq.com/s/D0sclKz2gGUvllISjqHgyw)
-- [消息队列中间件（一）介绍](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/mq-introduction.md) | [微信链接](https://mp.weixin.qq.com/s/Gg3STCrnLsormMl1HyZrrQ)
-- [IO通信模型（三）多路复用IO](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-nio-selector.md) | [微信链接](https://mp.weixin.qq.com/s/4Xqk17NRlx56XfzSRhTNPA)
-- [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-bon-blocking.md) | [微信链接](https://mp.weixin.qq.com/s/lad3Ot2LQy6DEwMBH5NW1g)
-- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://github.com/niumoo/JavaNotes/blob/master/docs/mq/io-blocking.md) | [微信链接](https://mp.weixin.qq.com/s/1-8fMMIGxKiyXG6852xpaA)
+- [Java 反编译工具的使用与对比分析](https://www.wdbyte.com/2021/05/java-decompiler/)
+- [可以Postman，也可以cURL.进来领略下cURL的独门绝技](https://www.wdbyte.com/2020/06/tool/curl/) 
+- [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://www.wdbyte.com/2019/10/develop/idea-skill/)
+- [使用Apache Ant 进行Java web项目打包并部署至TOMCAT](https://www.wdbyte.com/2017/11/develop/tool-apache-ant/)
+- [Linux配置Tomcat的单机多实例](https://www.wdbyte.com/2018/08/develop/install-tomcat-many-instance/)
+- [Linux定时任务crontab的使用](https://www.wdbyte.com/2018/05/linux/linux-crontab/)
+- [原来热加载如此简单，手动写一个 Java 热加载吧](https://www.wdbyte.com/2019/10/jvm/java-hotput/)
+- [Manjaro Linux 入门使用教程](https://www.wdbyte.com/2020/04/linux/linux-manjaro/)
+- [Ubuntu18 的超详细常用软件安装](https://www.wdbyte.com/2018/11/linux/start-ubuntu/)
 
 
-### 🗺 贡献与建议
+## 💬 消息中间件
+
+- [消息队列中间件（三）Kafka 入门指南](https://www.wdbyte.com/2018/12/io/mq-kafka-introduction/)
+- [消息队列中间件（二）使用 ActiveMQ](https://www.wdbyte.com/2018/12/io/mq-activemq/)
+- [消息队列中间件（一）介绍](https://www.wdbyte.com/2018/11/io/mq-introduction/)
+- [IO通信模型（三）多路复用IO](https://www.wdbyte.com/2018/10/io/io3-nio/)
+- [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://www.wdbyte.com/2018/10/io/io2-nio/)
+- [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://www.wdbyte.com/2018/10/io/io1-bio/)
+
+
+## 🗺 贡献与建议
 
 1. 内容难免存在笔误，一个错别字，一个语法错误，都是贡献。
 2. 文章中的错误和不足，或者不完善的地方都可以进行补充或者修改。
 3. 我没有涉及到的知识点，也可以进行补充。
 
-### 🏃 我的痕迹
+## 🏃 我的痕迹
 
 我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
 
 GitHub：[https://github.com/niumoo](https://github.com/niumoo)
 
-CSDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
+C SDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
 
 博客园：[https://www.cnblogs.com/niumoo/](https://www.cnblogs.com/niumoo/)
 
@@ -195,7 +205,7 @@ CSDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
 
 可以添加我的微信 <u>wn8398</u> 一起交流。
 
-<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wx.png" width="250px" alt="微信">
+<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wx.png" width="250px" alt="交个朋友">
 
 ### 公众号
 
@@ -203,5 +213,4 @@ CSDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注「 **未读代码** 」公众号。
 
-<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wp.png" width="250px" alt="微信">
-
+<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wp.png" width="250px" alt="等你很久">
