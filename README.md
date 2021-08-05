@@ -17,6 +17,7 @@
 
 文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
+
 ## 🌿 SpringBoot 2.x 教程
 
 使用 **Spring Boot** 可以快速的创建一个基于Spring 的、独立的、生产级的应用程序，并且可以直接运行。Spring Boot 采用习惯性配置，整合大量 Spring 组建和第三方库，让你只需要少量的修改就可以轻松上手。
@@ -63,8 +64,8 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 8 函数接口 Function ](https://www.wdbyte.com/java8/java8-function/)
 - [Java 8 新特性 - forEach 遍历](https://www.wdbyte.com/java8/java8-foreach/)
 
-- [Java 8 LocalDate、LocalDateTime 时间处理介绍](https://www.wdbyte.com/2019/10/jdk/jdk8-time/)
-- [Java 8 使用 Optional优雅的处理空指针](https://www.wdbyte.com/2019/11/jdk/jdk8-optional/)
+- [Java 8 新特性 - LocalDate、LocalDateTime 时间处理介绍](https://www.wdbyte.com/2019/10/jdk/jdk8-time/)
+- [Java 8 新特性 - 使用 Optional优雅的处理空指针](https://www.wdbyte.com/2019/11/jdk/jdk8-optional/)
 - [Java 8 新特性 - Lambda 表达式、函数接口了解一下](https://www.wdbyte.com/2019/11/jdk/jdk8-lambda/)
 - [Java 8 新特性 - 超强的 Stream 流操作姿势还不学习一下](https://www.wdbyte.com/2019/11/jdk/jdk8-stream/)
 - [Java 7 新特性 - 和低效 IO 说再见，Files,Paths,Path 文件操作介绍](https://www.wdbyte.com/2020/09/jdk/jdk7-file-pahs/)
@@ -147,7 +148,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 - [Java 开发的编程噩梦，这些坑你没踩过算我输](https://www.wdbyte.com/2020/08/java/java-code-standards/)
 - [如何使用 Lombok 进行优雅的编码](https://www.wdbyte.com/2018/12/develop/tool-lombok/)
-- [如何使用 Lombok 进行优雅的编码](https://github.com/niumoo/JavaNotes/blob/master/docs/tool/tool-Lombok.md)| [网站链接](https://www.wdbyte.com/2018/12/develop/tool-Lombok/)
 - [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
 
 ## 🧰 工具技巧
@@ -187,19 +187,20 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 ## 🏃 我的痕迹
 
-我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
+1. 我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
 
-GitHub：[https://github.com/niumoo](https://github.com/niumoo)
+2. GitHub：[https://github.com/niumoo](https://github.com/niumoo)
 
-C SDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
+3. C SDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
 
-博客园：[https://www.cnblogs.com/niumoo/](https://www.cnblogs.com/niumoo/)
+4. 博客园：[https://www.cnblogs.com/niumoo/](https://www.cnblogs.com/niumoo/)
 
-掘    金：[https://juejin.im/user/5a62d481f265da3e2a0dac9b](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
+5. 掘    金：[https://juejin.im/user/5a62d481f265da3e2a0dac9b](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
 
-知    乎：[https://www.zhihu.com/people/bpdwn](https://www.zhihu.com/people/bpdwn)
+6. 知    乎：[https://www.zhihu.com/people/bpdwn](https://www.zhihu.com/people/bpdwn)
 
-思    否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
+7. 思    否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
+
 
 ### 联系我
 
