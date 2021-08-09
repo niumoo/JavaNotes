@@ -51,7 +51,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 - Java 15 新特性讲解
 - Java 14 新特性讲解
-- Java 13 新特性讲解
+- [Java 13 新特性讲解](https://www.wdbyte.com/java/java-13/)
 - [Java 12 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk12-feature/)
 - [Java 11 新特性介绍](https://www.wdbyte.com/2020/03/jdk/jdk11-feature/)
 - [Java 10 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk10-feature/)
