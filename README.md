@@ -49,7 +49,7 @@
 
 Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错，何况有些新特性是**真香**。
 
-- Java 15 新特性讲解
+- [Java 15 新功能介绍](https://www.wdbyte.com/java/java-15/)
 - [Java 14 新特性讲解](https://www.wdbyte.com/java/java-14/)
 - [Java 13 新特性讲解](https://www.wdbyte.com/java/java-13/)
 - [Java 12 新特性介绍](https://www.wdbyte.com/2020/02/jdk/jdk12-feature/)
