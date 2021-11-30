@@ -121,7 +121,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 锁的自动优化升级策略
 
 ## 🔍 Java 性能分析
-
+- [Java 中的监控与管理原理概述](https://www.wdbyte.com/java/monitoring.html)
 - [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://www.wdbyte.com/2020/08/develop/tool-jmh/)
 - [Arthas - Java 线上问题定位处理的终极利器](https://www.wdbyte.com/2019/11/arthas/)
 - [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://www.wdbyte.com/2019/12/async-profiler/)
