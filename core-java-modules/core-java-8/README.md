@@ -1,4 +1,4 @@
-## core-java-java
+## core-java-8
 当前模块包含 Java 8 新特性相关代码
 
 ### 相关文章
