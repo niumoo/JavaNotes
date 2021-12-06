@@ -201,8 +201,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 6. 知    乎：[https://www.zhihu.com/people/bpdwn](https://www.zhihu.com/people/bpdwn)
 
-7. 思    否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
-
 
 ### 联系我
 
