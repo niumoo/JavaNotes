@@ -121,6 +121,8 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 锁的自动优化升级策略
 
 ## 🔍 Java 性能分析
+
+- [Java 中的5个代码性能提升技巧，最高提升9.5倍](https://www.wdbyte.com/java/code-5-tips.html)
 - [使用 JMX 监控和管理 Java 程序](https://www.wdbyte.com/java/jmx.html)
 - [Java 中的监控与管理原理概述](https://www.wdbyte.com/java/monitoring.html)
 - [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://www.wdbyte.com/2020/08/develop/tool-jmh/)
