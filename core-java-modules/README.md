@@ -30,3 +30,5 @@
 - [Java 中的监控与管理原理概述](https://www.wdbyte.com/java/monitoring.html)
 - [使用 JMX 监控和管理 Java 程序](https://www.wdbyte.com/java/jmx.html)
 - [Java 中的 5 个代码性能提升技巧](https://www.wdbyte.com/java/code-5-tips.html)
+
+- [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
