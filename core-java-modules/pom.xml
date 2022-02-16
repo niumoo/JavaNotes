@@ -21,6 +21,10 @@
     <modules>
         <module>core-java-performance</module>
         <module>core-java-8</module>
+        <module>core-java-9</module>
+        <module>core-java-performance-code</module>
+        <module>core-java-io</module>
+        <module>core-java-string</module>
     </modules>
 
 </project>

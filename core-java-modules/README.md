@@ -32,3 +32,4 @@
 - [Java 中的 5 个代码性能提升技巧](https://www.wdbyte.com/java/code-5-tips.html)
 
 - [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
+- [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
