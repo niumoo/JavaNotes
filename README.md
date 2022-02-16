@@ -141,7 +141,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 图
 
 ## ⏳ Java 开发
-
+- [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
 - [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
 - [Java 中 RMI 的使用](https://www.wdbyte.com/2021/05/java/java-rmi/)
 - [如何使用 Github Actions 自动抓取每日必应壁纸?](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)
