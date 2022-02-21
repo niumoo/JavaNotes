@@ -6,7 +6,7 @@ import java.util.StringJoiner;
 import java.util.stream.Collectors;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/02/16
  */
 public class StringConcat {

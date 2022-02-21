@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/19
  */
 public class Java8PredicateChain {

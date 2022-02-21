@@ -6,7 +6,7 @@ import java.util.function.BiPredicate;
 import java.util.stream.Collectors;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/08/01
  */
 public class Java8FunctionBiPredicateParams {

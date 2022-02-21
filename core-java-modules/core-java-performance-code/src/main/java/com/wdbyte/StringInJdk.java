@@ -16,7 +16,7 @@ import org.openjdk.jmh.annotations.Warmup;
 import org.openjdk.jmh.infra.Blackhole;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/12/23
  */
 @State(Scope.Benchmark)

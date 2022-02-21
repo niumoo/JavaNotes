@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Consumer;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/20
  */
 public class Java8ConsumerForEach {

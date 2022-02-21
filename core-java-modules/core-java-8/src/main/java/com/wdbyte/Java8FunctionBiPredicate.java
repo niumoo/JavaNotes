@@ -3,7 +3,7 @@ package com.wdbyte;
 import java.util.function.BiPredicate;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/08/01
  */
 public class Java8FunctionBiPredicate {

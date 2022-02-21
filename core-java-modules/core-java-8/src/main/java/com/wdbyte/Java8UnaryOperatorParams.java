@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.UnaryOperator;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/08/02
  */
 public class Java8UnaryOperatorParams {

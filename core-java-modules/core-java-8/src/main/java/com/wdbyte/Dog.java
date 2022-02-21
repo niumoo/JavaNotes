@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 import java.util.Base64;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/21
  */
 public class Dog {

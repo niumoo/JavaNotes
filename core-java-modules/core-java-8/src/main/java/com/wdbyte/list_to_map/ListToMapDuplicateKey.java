@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/23
  */
 public class ListToMapDuplicateKey {

@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.function.IntSupplier;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/23
  */
 public class Java8SupplierInt {

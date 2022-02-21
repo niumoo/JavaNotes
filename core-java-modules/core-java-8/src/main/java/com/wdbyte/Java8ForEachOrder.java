@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/18
  */
 public class Java8ForEachOrder {

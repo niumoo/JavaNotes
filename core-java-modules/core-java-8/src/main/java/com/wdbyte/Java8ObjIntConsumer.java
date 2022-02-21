@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 import java.util.function.ObjIntConsumer;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/20
  */
 public class Java8ObjIntConsumer {

@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/19
  */
 public class Java8PredicateAnd {

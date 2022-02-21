@@ -6,7 +6,7 @@ import java.util.UUID;
 import java.util.function.Supplier;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/21
  */
 public class Java8Supplier {

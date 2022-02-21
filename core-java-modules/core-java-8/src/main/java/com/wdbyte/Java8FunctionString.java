@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Function;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/17
  */
 public class Java8FunctionString {

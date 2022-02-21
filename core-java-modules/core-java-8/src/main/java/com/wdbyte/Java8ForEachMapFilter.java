@@ -3,7 +3,7 @@ package com.wdbyte;
 import java.util.HashMap;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2021/07/18
  */
 public class Java8ForEachMapFilter {
