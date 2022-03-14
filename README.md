@@ -18,6 +18,23 @@
 文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
 
+## ⏳ Java 开发
+- [5种限流算法，7种限流方式，挡住突发流量？](https://www.wdbyte.com/java/rate-limiter.html)
+- [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
+- [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
+- [Java 中 RMI 的使用](https://www.wdbyte.com/2021/05/java/java-rmi/)
+- [如何使用 Github Actions 自动抓取每日必应壁纸?](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)
+- [三种骚操作绕过迭代器遍历时的数据修改异常](https://www.wdbyte.com/2021/02/develop/interator-update/)
+- [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://www.wdbyte.com/2020/10/develop/google-guava/)
+- [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://www.wdbyte.com/2020/10/2020-1024/)
+- [一篇有趣的负载均衡算法实现](https://www.wdbyte.com/2020/05/algorithm/load-balancing/)
+- [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://www.wdbyte.com/2020/07/tool/java-download/)
+
+- [Java 开发的编程噩梦，这些坑你没踩过算我输](https://www.wdbyte.com/2020/08/java/java-code-standards/)
+- [如何使用 Lombok 进行优雅的编码](https://www.wdbyte.com/2018/12/develop/tool-lombok/)
+- [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
+
+
 ## 🌿 SpringBoot 2.x 教程
 
 使用 **Spring Boot** 可以快速的创建一个基于Spring 的、独立的、生产级的应用程序，并且可以直接运行。Spring Boot 采用习惯性配置，整合大量 Spring 组建和第三方库，让你只需要少量的修改就可以轻松上手。
@@ -139,21 +156,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 哈希表
 - 堆
 - 图
-
-## ⏳ Java 开发
-- [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
-- [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
-- [Java 中 RMI 的使用](https://www.wdbyte.com/2021/05/java/java-rmi/)
-- [如何使用 Github Actions 自动抓取每日必应壁纸?](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)
-- [三种骚操作绕过迭代器遍历时的数据修改异常](https://www.wdbyte.com/2021/02/develop/interator-update/)
-- [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://www.wdbyte.com/2020/10/develop/google-guava/)
-- [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://www.wdbyte.com/2020/10/2020-1024/)
-- [一篇有趣的负载均衡算法实现](https://www.wdbyte.com/2020/05/algorithm/load-balancing/)
-- [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://www.wdbyte.com/2020/07/tool/java-download/)
-
-- [Java 开发的编程噩梦，这些坑你没踩过算我输](https://www.wdbyte.com/2020/08/java/java-code-standards/)
-- [如何使用 Lombok 进行优雅的编码](https://www.wdbyte.com/2018/12/develop/tool-lombok/)
-- [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
 
 ## 🧰 工具技巧
 
