@@ -2,9 +2,9 @@ package com.wdbyte;
 
 import java.util.Optional;
 
-import org.junit.Test;
 
 import lombok.Data;
+import org.junit.jupiter.api.Test;
 
 /**
  * <p>

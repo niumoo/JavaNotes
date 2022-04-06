@@ -2,6 +2,7 @@
 当前模块包含 Java 8 新特性相关代码
 
 ### 相关文章
+- [Java 8 Lambda 和 Comparator 排序](/java8/comparator/)
 - [Java 8 函数接口 UnaryOperator ](https://www.wdbyte.com/java8/java8-unaryoperaotr)
 - [Java 8 函数接口 BiPredicate ](https://www.wdbyte.com/java8/java8-bipredicate)
 - [Java 8 函数接口 BiFunction ](https://www.wdbyte.com/java8/java8-bifunction/)

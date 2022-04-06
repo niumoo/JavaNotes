@@ -1,12 +1,10 @@
 package com.wdbyte;
 
-import org.junit.Test;
-
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
-import java.util.HashSet;
-import java.util.Set;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * <p>

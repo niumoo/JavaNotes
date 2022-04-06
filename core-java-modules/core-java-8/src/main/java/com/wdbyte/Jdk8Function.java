@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 
-import org.junit.Test;
 
 /**
  * <p>
@@ -20,7 +19,6 @@ import org.junit.Test;
  */
 public class Jdk8Function {
 
-    @Test
     public void testFunction() {
         // 构造器引用
         final Car bmwCar = Car.create(Car::new);
@@ -39,7 +37,6 @@ public class Jdk8Function {
     /**
      * 函数接口
      */
-    @Test
     public void functionInterfaceTest() {
         List<String> skills = Arrays.asList("java", "golang", "c++", "c", "python");
         Predicate<String> length4 = (str) -> str.length() > 4;
@@ -75,7 +72,6 @@ public class Jdk8Function {
     /**
      * predicate 的复杂使用
      */
-    @Test
     public void predicateTest() {
         Predicate<String> startsWith = (str) -> str.startsWith("g");
         Predicate<String> length = (str) -> str.length() > 4;
