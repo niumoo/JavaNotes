@@ -9,9 +9,9 @@ import java.util.Stack;
  * @author niulang
  * @date 2022/04/20
  */
-public class LeetCode388 {
+public class LeetCode388_LengthLongestPath {
     public static void main(String[] args) {
-        LeetCode388 leetCode388 = new LeetCode388();
+        LeetCode388_LengthLongestPath leetCode388 = new LeetCode388_LengthLongestPath();
         //int path = leetCode388.lengthLongestPath2("dir\n        file.txt");
         int path = leetCode388.lengthLongestPath2("dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext");
         System.out.println(path);

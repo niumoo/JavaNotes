@@ -7,11 +7,11 @@ package com.wdbyte.leetcode;
  * @author niulang
  * @date 2022/04/21
  */
-public class LeetCode824 {
+public class LeetCode824_ToGoatLatin {
 
     public static void main(String[] args) {
         //String goatLatin = new LeetCode824().toGoatLatin("I speak Goat Latin");
-        String goatLatin = new LeetCode824().toGoatLatin("The quick brown fox jumped over the lazy dog");
+        String goatLatin = new LeetCode824_ToGoatLatin().toGoatLatin("The quick brown fox jumped over the lazy dog");
         //String goatLatin = new LeetCode824().toGoatLatin("goat");
         System.out.println(goatLatin);
     }
@@ -38,7 +38,7 @@ public class LeetCode824 {
             // 元音开头
             char[] chars = word.toCharArray();
             if (chars[0] == 'A' || chars[0] == 'E' || chars[0] == 'I' || chars[0] == 'O' || chars[0] == 'U' ||
-                chars[0] == 'a' || chars[0] == 'e' || chars[0] == 'i' || chars[0] == 'o' || chars[0] == 'u') {
+                chars[0] == 'a' || chars[0] == 'e' || chars[0] == 'i' || chars[0] == 'o' || chars[0] == 'u' ) {
                 builder.append(word).append("ma");
             } else {
                 // 辅音开头
@@ -53,5 +53,27 @@ public class LeetCode824 {
             }
         }
         return builder.toString();
+    }
+
+    public String toGoatLatin2(String sentence) {
+        String[] array = sentence.split(" ");
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i < array.length; i++) {
+            String word = array[i];
+            // 元音开头
+            char charAt0 = word.charAt(0);
+            if (charAt0 == 'A' || charAt0 == 'E' || charAt0 == 'I' || charAt0 == 'O' || charAt0 == 'U' ||
+                charAt0 == 'a' || charAt0 == 'e' || charAt0 == 'i' || charAt0 == 'o' || charAt0 == 'u') {
+                builder.append(word).append("ma");
+            } else {
+                // 辅音开头
+                builder.append(word.substring(1)).append(charAt0).append("ma");
+            }
+            for (int j = 0; j <= i; j++) {
+                builder.append("a");
+            }
+            builder.append(" ");
+        }
+        return builder.toString().trim();
     }
 }
