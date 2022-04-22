@@ -1,6 +1,8 @@
 /target/
 */systemlog/
 !.mvn/wrapper/maven-wrapper.jar
+*.class
+*/*.class
 
 ### STS ###
 .apt_generated
