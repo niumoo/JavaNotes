@@ -1,7 +1,5 @@
 > **原创文章每周更新**。技术文字在写的过程中难免会有纰漏，或者细节不够完善。大家发现问题，可以及时给我 PR 反馈，也可以去 [公众号](https://github.com/niumoo/JavaNotes#%E5%85%AC%E4%BC%97%E5%8F%B7) 给我留言，或者加我 [微信](https://github.com/niumoo/JavaNotes#联系我) 直接说明，我都会及时更正，哪怕是一个错别字。加油！奥利给！
 
-
-
 <h1 align="center"> Java Notes </h1>
 <p align="center">
 <a href="#联系我" rel="nofollow"><img src="https://img.shields.io/badge/wechat-微信-9cf.svg" alt="wechat" data-canonical-src="https://img.shields.io/badge/wechat-微信-9cf.svg" style="max-width:100%;"></a>
@@ -19,6 +17,7 @@
 
 
 ## ⏳ Java 开发
+- [Java 中的对象池化](https://www.wdbyte.com/java/object-pool.html)
 - [5种限流算法，7种限流方式，挡住突发流量？](https://www.wdbyte.com/java/rate-limiter.html)
 - [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
 - [字符图案，我用字符画个冰墩墩](https://www.wdbyte.com/java/char-image.html)
