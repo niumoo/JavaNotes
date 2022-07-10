@@ -13,6 +13,7 @@
         <module>junit5-jupiter-starter</module>
         <module>apache-httpclient</module>
         <module>leetcode</module>
+        <module>tool-java-object-pool</module>
     </modules>
     <name>parent-modules</name>
     <description>Parent for all java modules</description>
