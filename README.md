@@ -17,6 +17,7 @@
 
 
 ## ⏳ Java 开发
+- [必应壁纸，我的第一个 400 Star 开源项目](https://www.wdbyte.com/bing-wallpaper-400.html)
 - [Java 中的对象池化](https://www.wdbyte.com/java/object-pool.html)
 - [5种限流算法，7种限流方式，挡住突发流量？](https://www.wdbyte.com/java/rate-limiter.html)
 - [Java 中拼接 String 的 N 种方式](https://www.wdbyte.com/java/string-concat.html)
