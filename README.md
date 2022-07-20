@@ -165,7 +165,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 
 一款好用的工具，不仅可以装X，更可以让你事半功倍，准时下班。
 
-
+- [Jackson 解析 JSON 详细教程](https://www.wdbyte.com/tool/jackson.html)
 - [Java 反编译工具的使用与对比分析](https://www.wdbyte.com/2021/05/java-decompiler/)
 - [可以Postman，也可以cURL.进来领略下cURL的独门绝技](https://www.wdbyte.com/2020/06/tool/curl/) 
 - [抛弃Eclipse，投入IDEA 的独孤求败江湖](https://www.wdbyte.com/2019/10/develop/idea-skill/)
