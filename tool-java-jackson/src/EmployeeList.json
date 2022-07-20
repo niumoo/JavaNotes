@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aLang",
+    "age": 27,
+    "skillList": [
+      "java",
+      "c++"
+    ]
+  },
+  {
+    "name": "darcy",
+    "age": 26,
+    "skillList": [
+      "go",
+      "rust"
+    ]
+  }
+]
