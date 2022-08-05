@@ -11,8 +11,8 @@
         <module>core-java-modules</module>
         <module>core-java-rate-limiter</module>
         <module>junit5-jupiter-starter</module>
-        <module>apache-httpclient</module>
         <module>leetcode</module>
+        <module>tool-java-apache-httpclient</module>
         <module>tool-java-object-pool</module>
         <module>tool-java-jackson</module>
     </modules>
