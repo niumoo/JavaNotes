@@ -16,6 +16,7 @@
         <module>tool-java-object-pool</module>
         <module>tool-java-jackson</module>
         <module>tool-java-apache-common</module>
+        <module>tool-java-hotcode</module>
     </modules>
     <name>parent-modules</name>
     <description>Parent for all java modules</description>
