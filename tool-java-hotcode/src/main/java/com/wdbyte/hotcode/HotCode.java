@@ -20,7 +20,7 @@ public class HotCode {
 
     public static void main(String[] args) {
         // 模拟 CPU 过高
-        //cpuHigh();
+        cpuHigh();
         // 模拟线程阻塞，线程池容量为1，塞入两个线程，会有一个一直等待
         thread();
         // 模拟线程死锁
@@ -92,11 +92,14 @@ public class HotCode {
      */
     private static void cpuHigh() {
         Thread thread = new Thread(() -> {
-            double pi = 0;
-            for (int i = 0; i < Integer.MAX_VALUE; i++) {
-                pi += Math.pow(-1, i) / (2 * i + 1);
+            Thread.currentThread().setName("cpu_high_thread");
+            while (true){
+                double pi = 0;
+                for (int i = 0; i < Integer.MAX_VALUE; i++) {
+                    pi += Math.pow(-1, i) / (2 * i + 1);
+                }
+                System.out.println("Pi: " + pi * 4);
             }
-            System.out.println("Pi: " + pi * 4);
         });
         thread.start();
     }
