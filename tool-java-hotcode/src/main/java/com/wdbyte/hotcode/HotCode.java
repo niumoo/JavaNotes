@@ -22,7 +22,7 @@ public class HotCode {
     public static void main(String[] args) {
         // 模拟 CPU 过高
         cpuHigh();
-        // 生成大长度数组
+        // 不断新增 BigDecimal 信息到 list
         allocate();
         // 模拟线程死锁
         deadThread();
@@ -49,36 +49,21 @@ public class HotCode {
         });
         thread.start();
     }
-    private static Object array;
 
     /**
-     * 生成大长度数组
+     * 不断新增 BigDecimal 信息到 list
      */
     private static void allocate() {
-        new Thread(() -> {
-            Thread.currentThread().setName("memory_allocate_thread_1");
-            int index = 1;
-            while (true) {
-                array = new BigDecimal[1 * index * 1000];
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
-                index++;
-            }
-        }).start();
-
         new Thread(()->{
-            Thread.currentThread().setName("memory_allocate_thread_2");
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < 1000000; i++) {
+            Thread.currentThread().setName("memory_allocate_thread");
+            List<BigDecimal> list = new ArrayList<>();
+            for (int i = 0; i < Integer.MAX_VALUE; i++) {
                 try {
                     Thread.sleep(1);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
-                list.add("string" + i);
+                list.add(new BigDecimal(i));
             }
         }).start();
     }
