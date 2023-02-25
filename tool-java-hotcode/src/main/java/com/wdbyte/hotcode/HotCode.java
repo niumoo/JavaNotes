@@ -21,74 +21,19 @@ public class HotCode {
     public static void main(String[] args) {
         // 模拟 CPU 过高
         cpuHigh();
-        // 模拟线程阻塞，线程池容量为1，塞入两个线程，会有一个一直等待
-        thread();
+        // 生成大长度数组
+        allocate();
         // 模拟线程死锁
         deadThread();
         // 不断的向 hashSet 集合增加数据，内存缓慢增长
         addHashSetThread();
-        // 生成大长度数组
-        allocate();
-    }
-
-    private static Object array;
-
-    /**
-     * 生成大长度数组
-     */
-    private static void allocate() {
-        new Thread(() -> {
-            int index = 1;
-            while (true) {
-                Thread.currentThread().setName("memory_allocate_thread");
-                array = new int[1 * index * 1000];
-                array = new Integer[1 * index * 1000];
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
-                index++;
-
-            }
-        }).start();
-
-        new Thread(()->{
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < 1000000; i++) {
-                try {
-                    Thread.sleep(1);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
-                list.add("string" + i);
-            }
-        }).start();
+        // 模拟线程阻塞，线程池容量为1，塞入两个线程，会有一个一直等待
+        thread();
     }
 
     /**
-     * 不断的向 hashSet 集合添加数据，每秒100个字符串
-     */
-    public static void addHashSetThread() {
-        // 初始化常量
-        new Thread(() -> {
-            int count = 0;
-            while (true) {
-                Thread.currentThread().setName("add_hash_set_thread");
-                try {
-                    hashSet.add("count" + count);
-                    Thread.sleep(10);
-                    count++;
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-            }
-        }).start();
-    }
-
-    /**
-     * 极度消耗CPU的线程
-     * 死循环
+     * 消耗CPU的线程
+     * 不断循环进行浮点运算
      */
     private static void cpuHigh() {
         Thread thread = new Thread(() -> {
@@ -103,25 +48,40 @@ public class HotCode {
         });
         thread.start();
     }
+    private static Object array;
 
     /**
-     * 模拟线程阻塞
-     * 线程池容量为1，但是向线程池中塞入两个线程
+     * 生成大长度数组
      */
-    private static void thread() {
-        Thread thread = new Thread(() -> {
+    private static void allocate() {
+        new Thread(() -> {
+            Thread.currentThread().setName("memory_allocate_thread_1");
+            int index = 1;
             while (true) {
-                System.out.println("executorService thread start");
+                array = new int[1 * index * 1000];
+                array = new Integer[1 * index * 1000];
                 try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                    throw new RuntimeException(e);
                 }
+                index++;
+
             }
-        });
-        // 添加到线程
-        executorService.submit(thread);
-        executorService.submit(thread);
+        }).start();
+
+        new Thread(()->{
+            Thread.currentThread().setName("memory_allocate_thread_2");
+            List<String> list = new ArrayList<>();
+            for (int i = 0; i < 1000000; i++) {
+                try {
+                    Thread.sleep(1);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                list.add("string" + i);
+            }
+        }).start();
     }
 
     /**
@@ -166,5 +126,56 @@ public class HotCode {
         });
         threadA.start();
         threadB.start();
+    }
+
+
+    /**
+     * 不断的向 hashSet 集合添加数据，每秒100个字符串
+     */
+    public static void addHashSetThread() {
+        // 初始化常量
+        new Thread(() -> {
+            Thread.currentThread().setName("add_hash_set_thread");
+            int count = 0;
+            while (true) {
+                try {
+                    hashSet.add("count" + count);
+                    Thread.sleep(10);
+                    count++;
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        }).start();
+    }
+
+    /**
+     * 模拟线程阻塞
+     * 线程池容量为1，但是向线程池中塞入两个线程
+     */
+    private static void thread() {
+        Thread thread = new Thread(() -> {
+            System.out.println("executorService thread start");
+            while (true) {
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        // 添加到线程
+        executorService.submit(thread);
+        executorService.submit(thread);
+        executorService.submit(thread);
+        executorService.submit(thread);
+    }
+
+    /**
+     * 运行缓慢的方法
+     */
+    public static void runSlowThread(){
+        new Thread(() -> {
+        }).start();
     }
 }
