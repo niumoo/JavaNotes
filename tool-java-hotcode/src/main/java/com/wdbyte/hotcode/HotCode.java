@@ -1,5 +1,6 @@
 package com.wdbyte.hotcode;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -58,15 +59,13 @@ public class HotCode {
             Thread.currentThread().setName("memory_allocate_thread_1");
             int index = 1;
             while (true) {
-                array = new int[1 * index * 1000];
-                array = new Integer[1 * index * 1000];
+                array = new BigDecimal[1 * index * 1000];
                 try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
                 index++;
-
             }
         }).start();
 
@@ -140,7 +139,7 @@ public class HotCode {
             while (true) {
                 try {
                     hashSet.add("count" + count);
-                    Thread.sleep(10);
+                    Thread.sleep(5);
                     count++;
                 } catch (InterruptedException e) {
                     e.printStackTrace();
