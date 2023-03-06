@@ -8,6 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
+ *
  * @author niulang
  * @date 2023/02/20
  */
@@ -22,7 +23,7 @@ public class HotCode {
     public static void main(String[] args) {
         // 模拟 CPU 过高
         cpuHigh();
-        // 不断新增 BigDecimal 信息到 list
+        // 不断新增 BigDecimal 信息到 list，每秒10000个，内存迅速上升
         allocate();
         // 模拟线程死锁
         deadThread();
@@ -30,6 +31,8 @@ public class HotCode {
         addHashSetThread();
         // 模拟线程阻塞，线程池容量为1，塞入两个线程，会有一个一直等待
         thread();
+        // 运行缓慢的方法
+        runSlowThread();
     }
 
     /**
@@ -51,7 +54,7 @@ public class HotCode {
     }
 
     /**
-     * 不断新增 BigDecimal 信息到 list
+     * 不断新增 BigDecimal 信息到 list，每秒10000个
      */
     private static void allocate() {
         new Thread(()->{
@@ -63,7 +66,9 @@ public class HotCode {
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
-                list.add(new BigDecimal(i));
+                for (int i1 = 0; i1 < 10; i1++) {
+                    list.add(new BigDecimal(i));
+                }
             }
         }).start();
     }
@@ -160,6 +165,33 @@ public class HotCode {
      */
     public static void runSlowThread(){
         new Thread(() -> {
+            Thread.currentThread().setName("slow_method");
+            while (true){
+                try {
+                    slow();
+                    slow2();
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            }
         }).start();
     }
+
+    public static void slow() throws InterruptedException {
+        int count = 0;
+        for (int i = 0; i < 10000; i++) {
+            count++;
+            Thread.sleep(1);
+        }
+        System.out.println(count);
+    }
+    public static void slow2() throws InterruptedException {
+        int count = 0;
+        for (int i = 0; i < 1000; i++) {
+            count++;
+            Thread.sleep(1);
+        }
+        System.out.println(count);
+    }
+
 }
