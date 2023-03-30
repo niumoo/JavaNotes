@@ -11,7 +11,7 @@
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
 
-目录中没有链接的部分，后续更新，感谢你的 ​STAR​ ，有问题或者建议可以[一起完善](https://github.com/niumoo/JavaNotes#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
+目录中没有链接的部分，后续更新，感谢你的 ​STAR​ ，有问题或者建议可以[一起完善](Accept#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
 文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
 
@@ -31,11 +31,18 @@
 - [「1024」专属序猿的快乐，惊奇迷惑代码大赏](https://www.wdbyte.com/2020/10/2020-1024/)
 - [一篇有趣的负载均衡算法实现](https://www.wdbyte.com/2020/05/algorithm/load-balancing/)
 - [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://www.wdbyte.com/2020/07/tool/java-download/)
-
 - [Java 开发的编程噩梦，这些坑你没踩过算我输](https://www.wdbyte.com/2020/08/java/java-code-standards/)
 - [如何使用 Lombok 进行优雅的编码](https://www.wdbyte.com/2018/12/develop/tool-lombok/)
 - [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
 
+## 🌿 Java 基础教程
+- [JDK、JRE、JVM 的区别](https://www.wdbyte.com/java/jdk-jre-jvm.html)
+- [Java 数据类型](https://www.wdbyte.com/java/data-type.html)
+- [Java 流程控制](https://www.wdbyte.com/java/flow-control.html)
+- [Java String 字符串](https://www.wdbyte.com/java/java-string.html)
+- [Java Array 数组](https://www.wdbyte.com/java/java-array.html)
+- [Java 多维数组](https://www.wdbyte.com/java/java-array-mul.html)
+- [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder.html)
 
 ## 🌿 SpringBoot 2.x 教程
 
