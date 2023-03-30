@@ -26,6 +26,8 @@
         <module>core-java-io</module>
         <module>core-java-string</module>
         <module>core-java-18</module>
+        <module>core-java-collect</module>
+        <module>core-java-base</module>
     </modules>
 
 </project>
