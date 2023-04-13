@@ -36,13 +36,14 @@
 - [使用MyBatis Generator自动生成Model、Dao、Mapper相关代码](https://www.wdbyte.com/2017/11/develop/tool-mybatis-generator/)
 
 ## 🌿 Java 基础教程
-- [JDK、JRE、JVM 的区别](https://www.wdbyte.com/java/jdk-jre-jvm.html)
-- [Java 数据类型](https://www.wdbyte.com/java/data-type.html)
-- [Java 流程控制](https://www.wdbyte.com/java/flow-control.html)
-- [Java String 字符串](https://www.wdbyte.com/java/java-string.html)
-- [Java Array 数组](https://www.wdbyte.com/java/java-array.html)
-- [Java 多维数组](https://www.wdbyte.com/java/java-array-mul.html)
-- [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder.html)
+- [JDK、JRE、JVM 的区别](https://www.wdbyte.com/java/jdk-jre-jvm/)
+- [Java 数据类型](https://www.wdbyte.com/java/data-type/)
+- [Java 流程控制](https://www.wdbyte.com/java/flow-control/)
+- [Java String 字符串](https://www.wdbyte.com/java/java-string/)
+- [Java Array 数组](https://www.wdbyte.com/java/java-array/)
+- [Java 多维数组](https://www.wdbyte.com/java/java-array-mul/)
+- [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder/)
+- [Java 继承](https://www.wdbyte.com/java/extends/)
 
 ## 🌿 SpringBoot 2.x 教程
 
