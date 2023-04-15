@@ -35,6 +35,11 @@ class Student extends Person {
     }
 
     @Override
+    public void eat() {
+        System.out.println("吃大米");
+    }
+
+    @Override
     public void sleep() {
         System.out.println("上课时不能睡觉");
     }

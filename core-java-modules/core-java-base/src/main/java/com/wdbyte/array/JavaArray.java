@@ -1,4 +1,4 @@
-package com.wdbyte;
+package com.wdbyte.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;

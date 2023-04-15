@@ -44,6 +44,7 @@
 - [Java 多维数组](https://www.wdbyte.com/java/java-array-mul/)
 - [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder/)
 - [Java 继承](https://www.wdbyte.com/java/extends/)
+- [Java 接口](https://www.wdbyte.com/java/interface/)
 
 ## 🌿 SpringBoot 2.x 教程
 

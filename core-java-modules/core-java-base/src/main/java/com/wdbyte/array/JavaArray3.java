@@ -1,4 +1,4 @@
-package com.wdbyte;
+package com.wdbyte.array;
 
 /**
  * @author niulang
