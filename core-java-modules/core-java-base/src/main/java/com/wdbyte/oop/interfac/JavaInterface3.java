@@ -1,4 +1,4 @@
-package com.wdbyte.oop;
+package com.wdbyte.oop.interfac;
 
 /**
  * @author niulang
