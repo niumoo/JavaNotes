@@ -45,6 +45,8 @@
 - [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder/)
 - [Java 继承](https://www.wdbyte.com/java/extends/)
 - [Java 接口](https://www.wdbyte.com/java/interface/)
+- [Java 抽象类](https://www.wdbyte.com/java/abstract/)
+- [Java 多态](https://www.wdbyte.com/java/polymorphism/)
 
 ## 🌿 SpringBoot 2.x 教程
 
