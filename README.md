@@ -47,6 +47,8 @@
 - [Java 接口](https://www.wdbyte.com/java/interface/)
 - [Java 抽象类](https://www.wdbyte.com/java/abstract/)
 - [Java 多态](https://www.wdbyte.com/java/polymorphism/)
+- [Java Scanner](https://www.wdbyte.com/java/scanner/)
+- [Java 日期时间 Date](https://www.wdbyte.com/java/date/)
 
 ## 🌿 SpringBoot 2.x 教程
 
