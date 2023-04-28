@@ -49,6 +49,7 @@
 - [Java 多态](https://www.wdbyte.com/java/polymorphism/)
 - [Java Scanner](https://www.wdbyte.com/java/scanner/)
 - [Java 日期时间 Date](https://www.wdbyte.com/java/date/)
+- [Java 异常处理](https://www.wdbyte.com/java/exception/)
 
 ## 🌿 SpringBoot 2.x 教程
 
