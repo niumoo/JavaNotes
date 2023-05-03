@@ -50,6 +50,8 @@
 - [Java Scanner](https://www.wdbyte.com/java/scanner/)
 - [Java 日期时间 Date](https://www.wdbyte.com/java/date/)
 - [Java 异常处理](https://www.wdbyte.com/java/exception/)
+- [Java 枚举](https://www.wdbyte.com/java/enum/)
+- [Java 集合框架](https://www.wdbyte.com/java/collection/)
 
 ## 🌿 SpringBoot 2.x 教程
 
