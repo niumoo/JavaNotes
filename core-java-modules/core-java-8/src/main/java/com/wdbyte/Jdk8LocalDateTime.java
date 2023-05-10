@@ -161,15 +161,29 @@ public class Jdk8LocalDateTime {
     public void timeFunctionTest() {
         LocalDateTime now = LocalDateTime.now();
         System.out.println("当前时间：" + now);
-        // 第一天
+
+        // LocalDateTime 本月第一天
+        // 方法1
         LocalDateTime firstDay = now.withDayOfMonth(1);
         System.out.println("本月第一天：" + firstDay);
-        // 当天最后一秒
-        LocalDateTime lastSecondOfDay = now.withHour(23).withMinute(59).withSecond(59);
-        System.out.println("当天最后一秒：" + lastSecondOfDay);
-        // 最后一天
+        // 方法2
+        firstDay = now.with(TemporalAdjusters.firstDayOfMonth());
+        System.out.println("本月第一天：" + firstDay);
+
+        // LocalDateTime 本月最后一天
         LocalDateTime lastDay = now.with(TemporalAdjusters.lastDayOfMonth());
         System.out.println("本月最后一天:" + lastDay);
+
+
+        // LocalDateTime 当天最后一秒
+        // 方法1
+        LocalDateTime lastSecondOfDay1 = now.withHour(23).withMinute(59).withSecond(59);
+        System.out.println("当天最后一秒：" + lastSecondOfDay1);
+        // 方法2
+        LocalDateTime lastSecondOfDay2 = LocalDateTime.now().with(LocalTime.MAX);
+        System.out.println("当天最后一秒：" + lastSecondOfDay2);
+
+
         // 是否闰年
         System.out.println("今年是否闰年：" + Year.isLeap(now.getYear()));
     }
