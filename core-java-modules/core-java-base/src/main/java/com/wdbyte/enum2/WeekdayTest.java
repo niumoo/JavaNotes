@@ -1,7 +1,7 @@
 package com.wdbyte.enum2;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/05/01
  */
 public class WeekdayTest {

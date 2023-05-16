@@ -1,7 +1,7 @@
 package com.wdbyte.oop.abs;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/17
  */
 public class PersonTest {

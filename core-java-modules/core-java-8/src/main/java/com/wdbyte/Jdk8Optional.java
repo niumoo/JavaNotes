@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
  * <p>
  * JDK8 为解决空指针增加的 Optional 方法
  * 
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/2/19 11:40
  */
 public class Jdk8Optional {

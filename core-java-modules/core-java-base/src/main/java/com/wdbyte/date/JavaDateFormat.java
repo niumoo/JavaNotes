@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/25
  */
 public class JavaDateFormat {

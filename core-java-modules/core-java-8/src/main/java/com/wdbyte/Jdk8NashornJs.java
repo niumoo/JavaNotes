@@ -15,7 +15,7 @@ import org.junit.jupiter.api.Test;
  * 
  * 这类Script引擎遵循相同的规则，允许Java和JavaScript交互使用，例子代码如下：
  *
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/6/12 9:41
  */
 public class Jdk8NashornJs {

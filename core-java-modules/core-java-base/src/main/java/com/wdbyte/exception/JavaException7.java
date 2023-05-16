@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/27
  */
 public class JavaException7 {

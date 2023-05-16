@@ -2,7 +2,7 @@ package com.wdbyte.oop.polymorphism.inter;
 
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/18
  */
 public class Test2 {

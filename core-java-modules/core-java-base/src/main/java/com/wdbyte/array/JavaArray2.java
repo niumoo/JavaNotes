@@ -1,7 +1,7 @@
 package com.wdbyte.array;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/25
  */
 public class JavaArray2 {

@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  */
 public class CollectionTest4 {
     public static void main(String[] args) {

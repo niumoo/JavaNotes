@@ -1,7 +1,7 @@
 package com.wdbyte.oop;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/31
  */
 public class JavaExtends {

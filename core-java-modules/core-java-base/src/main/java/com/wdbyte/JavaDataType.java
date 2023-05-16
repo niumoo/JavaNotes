@@ -1,7 +1,7 @@
 package com.wdbyte;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/23
  */
 public class JavaDataType {

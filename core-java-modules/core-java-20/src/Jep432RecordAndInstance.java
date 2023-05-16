@@ -1,5 +1,5 @@
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  */
 public class Jep432RecordAndInstance {
     public static void main(String[] args) {

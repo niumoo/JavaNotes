@@ -1,7 +1,7 @@
 package com.wdbyte.oop.polymorphism;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/18
  */
 public class TencentOss implements Oss {

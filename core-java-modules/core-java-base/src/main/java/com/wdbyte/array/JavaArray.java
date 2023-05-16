@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/23
  */
 public class JavaArray {

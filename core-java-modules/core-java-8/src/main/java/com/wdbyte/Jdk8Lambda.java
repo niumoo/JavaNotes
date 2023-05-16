@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
  * 4. 花括号可选，一个语句可以不用花括号，多个参数则花括号必须。
  * 5. 返回值可选，如果只有一个表达式，可以自动返回不需要 return 语句，花括号中需要 return 语法。
  *
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/2/17 14:48
  */
 public class Jdk8Lambda {

@@ -3,7 +3,7 @@ package com.wdbyte.exception;
 import org.apache.commons.lang3.ObjectUtils.Null;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  */
 public class JavaException5 {
 

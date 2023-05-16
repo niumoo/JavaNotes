@@ -1,7 +1,7 @@
-package com.wdbyte;
+package com.wdbyte.string;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/22
  */
 public class JavaString {

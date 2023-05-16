@@ -2,7 +2,7 @@ package com.wdbyte.array;
 
 /**
  * 锯齿数组
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/03/25
  */
 public class JavaArray4 {

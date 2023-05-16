@@ -13,7 +13,7 @@ import java.util.stream.Stream;
  * <p>
  * JDK 8 steam 流操作
  *
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/8/12 18:03
  */
 public class Jdk8Stream {

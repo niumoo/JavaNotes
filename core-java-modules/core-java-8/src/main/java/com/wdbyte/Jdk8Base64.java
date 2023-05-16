@@ -7,7 +7,7 @@ import java.util.Base64;
  * <p>
  * JDK8 对 base64 编码的支持
  *
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/6/12 9:47
  */
 public class Jdk8Base64 {

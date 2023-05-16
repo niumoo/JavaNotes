@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/04/02
  */
 public class Java8Comparator3 {

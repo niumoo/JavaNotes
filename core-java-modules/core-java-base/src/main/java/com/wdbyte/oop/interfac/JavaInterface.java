@@ -1,7 +1,7 @@
 package com.wdbyte.oop.interfac;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/04/13
  */
 public class JavaInterface {

@@ -5,7 +5,7 @@ package com.wdbyte;
  * 接口的静态方法和默认方法
  *
  *
- * @Author niujinpeng
+*  @Author https://www.wdbyte.com
  * @Date 2019/2/18 22:52
  */
 public class Jdk8Interface {

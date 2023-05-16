@@ -1,7 +1,7 @@
 package com.wdbyte.exception;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  */
 public class JavaException8 {
 
