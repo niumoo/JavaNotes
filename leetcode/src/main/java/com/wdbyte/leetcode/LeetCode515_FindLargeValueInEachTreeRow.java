@@ -8,7 +8,7 @@ import java.util.List;
  *
  * 515. 在每个树行中找最大值
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/06/24
  */
 public class LeetCode515_FindLargeValueInEachTreeRow {

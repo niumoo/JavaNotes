@@ -4,7 +4,7 @@ package com.wdbyte.leetcode;
  * https://leetcode-cn.com/problems/goat-latin/
  * 824. 山羊拉丁文
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/04/21
  */
 public class LeetCode824_ToGoatLatin {

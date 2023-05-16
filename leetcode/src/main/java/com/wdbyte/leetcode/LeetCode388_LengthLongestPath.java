@@ -6,7 +6,7 @@ import java.util.Stack;
  * 388. 文件的最长绝对路径
  * https://leetcode-cn.com/problems/longest-absolute-file-path/
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/04/20
  */
 public class LeetCode388_LengthLongestPath {
