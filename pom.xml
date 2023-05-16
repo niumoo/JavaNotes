@@ -10,13 +10,14 @@
     <modules>
         <module>core-java-modules</module>
         <module>core-java-rate-limiter</module>
-        <module>junit5-jupiter-starter</module>
+        <module>tool-java-junit5-jupiter-starter</module>
         <module>leetcode</module>
         <module>tool-java-apache-httpclient</module>
         <module>tool-java-object-pool</module>
         <module>tool-java-jackson</module>
         <module>tool-java-apache-common</module>
         <module>tool-java-hotcode</module>
+        <module>tool-java-protobuf</module>
     </modules>
     <name>parent-modules</name>
     <description>Parent for all java modules</description>

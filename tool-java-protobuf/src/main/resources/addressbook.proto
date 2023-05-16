@@ -1,0 +1,37 @@
+syntax = "proto3";
+// 指定 protobuf 包名，防止有相同类名的 message 定义
+package com.wdbyte.protobuf;
+// 是否生成多个文件
+option java_multiple_files = true;
+// 生成的文件存放在哪个包下
+option java_package = "com.wdbyte.tool.protos";
+// 生成的类名，如果没有指定，会根据文件名自动转驼峰来命名
+option java_outer_classname = "AddressBookProtos";
+// 可选消息字段类型：bool int32 float double string
+// 或者自定义消息类型，如下面的 PhoneNumber
+// 修饰符：optional: 可选字段，
+// 修饰符：repeated：可重复，如数组。
+// 修饰符：required:必要字段，必须给值，否则会报错 RuntimeException，但是在 protobuf 版本 3 中被移除。
+// 慎用 required，因为一旦被标记 requieds，以后将不能更改，否则可能会出问题。
+message Person {
+  optional int32 id = 1;
+  optional string name = 2;
+  optional string email = 3;
+
+  enum PhoneType {
+    MOBILE = 0;
+    HOME = 1;
+    WORK = 2;
+  }
+
+  message PhoneNumber {
+    optional string number = 1;
+    optional PhoneType type = 2;
+  }
+
+  repeated PhoneNumber phones = 4;
+}
+
+message AddressBook {
+  repeated Person people = 1;
+}

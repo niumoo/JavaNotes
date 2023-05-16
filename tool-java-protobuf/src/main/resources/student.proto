@@ -1,0 +1,14 @@
+syntax = "proto3";
+// 指定 protobuf 包名，防止有相同类名的 message 定义
+package com.wdbyte.protobuf;
+// 是否生成多个文件
+option java_multiple_files = false;
+// 生成的文件存放在哪个包下
+option java_package = "com.wdbyte.tool.protos";
+// 生成的类名，如果没有指定，会根据文件名自动转驼峰来命名
+//option java_outer_classname = "Student";
+
+message Student{
+  optional string  id = 1;
+  optional string name = 2;
+}
