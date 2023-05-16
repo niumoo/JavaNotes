@@ -1,6 +1,9 @@
 package com.wdbyte.hotcode;
 
+import java.io.IOException;
 import java.math.BigDecimal;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -9,7 +12,7 @@ import java.util.concurrent.Executors;
 
 /**
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/02/20
  */
 public class HotCode {
@@ -33,6 +36,10 @@ public class HotCode {
         thread();
         // 运行缓慢的方法
         runSlowThread();
+        // 读取文件
+        readFile();
+        // 抛出异常
+        exceMethod();
     }
 
     /**
@@ -104,6 +111,7 @@ public class HotCode {
                 System.out.println(Thread.currentThread() + " get ResourceB");
                 try {
                     Thread.sleep(1000);
+
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -192,6 +200,47 @@ public class HotCode {
             Thread.sleep(1);
         }
         System.out.println(count);
+    }
+
+    /**
+     * 不断读取文件
+     */
+    public static void readFile(){
+        new Thread(() -> {
+            Thread.currentThread().setName("read_file_method");
+            while (true){
+                try {
+                    byte[] bytes = Files.readAllBytes(Paths.get("/Users/darcy/Downloads/info.txt"));
+                    System.out.println(bytes.length);
+                    Thread.sleep(100);
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }).start();
+    }
+
+    /**
+     * 不断抛出异常
+     */
+    public static void exceMethod() {
+        new Thread(() -> {
+            Thread.currentThread().setName("exce_method");
+            while (true) {
+                try {
+                    System.out.println(exce(0));
+                    Thread.sleep(200);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        }).start();
+    }
+
+    public static int exce(int a){
+        return 10/a;
     }
 
 }
