@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/11/17
  */
 public class JUnitParam {

@@ -10,7 +10,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/11/15
  */
 class JUnitBeforeAll {

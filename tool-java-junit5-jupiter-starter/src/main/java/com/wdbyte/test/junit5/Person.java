@@ -1,7 +1,7 @@
 package com.wdbyte.test.junit5;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/11/17
  */
 public class Person {

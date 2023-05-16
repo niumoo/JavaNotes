@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wdbyte.junit5</groupId>
-    <artifactId>junit5-jupiter-starter</artifactId>
+    <artifactId>tool-java-junit5-jupiter-starter</artifactId>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
