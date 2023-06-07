@@ -28,6 +28,7 @@
         <module>core-java-18</module>
         <module>core-java-collect</module>
         <module>core-java-base</module>
+        <module>core-java-os</module>
     </modules>
 
 </project>
