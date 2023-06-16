@@ -18,6 +18,7 @@
         <module>tool-java-apache-common</module>
         <module>tool-java-hotcode</module>
         <module>tool-java-protobuf</module>
+        <module>tool-java-jcommander</module>
     </modules>
     <name>parent-modules</name>
     <description>Parent for all java modules</description>
