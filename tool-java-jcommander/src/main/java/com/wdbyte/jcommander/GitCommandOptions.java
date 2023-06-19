@@ -6,7 +6,7 @@ import com.beust.jcommander.Parameter;
 import com.beust.jcommander.converters.URLConverter;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/07
  */
 public class GitCommandOptions {

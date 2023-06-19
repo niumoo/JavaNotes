@@ -3,7 +3,7 @@ package com.wdbyte.jcommander.v3;
 import com.beust.jcommander.Parameter;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/07
  */
 public class GitCommandOptions {

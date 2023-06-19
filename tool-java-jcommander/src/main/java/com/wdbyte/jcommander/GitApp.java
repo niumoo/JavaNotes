@@ -9,7 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * Git APP
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/07
  */
 public class GitApp {

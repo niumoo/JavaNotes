@@ -8,7 +8,7 @@ import com.beust.jcommander.Parameters;
 /**
  * git add file1 file2
  *
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/07
  */
 @Parameters(commandDescription = "暂存文件", commandNames = "add", separators = " ")

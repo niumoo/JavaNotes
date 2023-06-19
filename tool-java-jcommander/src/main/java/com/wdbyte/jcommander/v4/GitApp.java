@@ -3,7 +3,7 @@ package com.wdbyte.jcommander.v4;
 import com.beust.jcommander.JCommander;
 
 /**
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/15
  */
 public class GitApp {

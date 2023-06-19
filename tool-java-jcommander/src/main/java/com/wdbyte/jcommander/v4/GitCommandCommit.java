@@ -5,7 +5,7 @@ import com.beust.jcommander.Parameters;
 
 /**
  * git commit -m "desc"
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/06/07
  */
 @Parameters(commandDescription = "提交文件", commandNames = "commit")
