@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>core-java-modules</module>
-        <module>core-java-rate-limiter</module>
+        <module>tool-java-rate-limiter</module>
         <module>tool-java-junit5-jupiter-starter</module>
         <module>leetcode</module>
         <module>tool-java-apache-httpclient</module>
