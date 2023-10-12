@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * apache common lang StringUtils test
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2022/11/01
  */
 public class StringUtilsTest {

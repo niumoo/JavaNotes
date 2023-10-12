@@ -8,7 +8,7 @@ import java.util.TreeSet;
 
 /**
  *  JDK 21 之前，顺序集合中操作体验不一致
- * @author niulang
+ * @author https://www.wdbyte.com
  * @date 2023/10/12ø
  */
 public class JEP431Test {
