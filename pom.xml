@@ -19,6 +19,8 @@
         <module>tool-java-hotcode</module>
         <module>tool-java-protobuf</module>
         <module>tool-java-jcommander</module>
+        <module>tool-java-classloader</module>
+        <module>tool-java-guava</module>
     </modules>
     <name>parent-modules</name>
     <description>Parent for all java modules</description>

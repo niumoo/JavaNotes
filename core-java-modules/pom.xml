@@ -14,18 +14,19 @@
     <packaging>pom</packaging>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
     <modules>
         <module>core-java-performance</module>
         <module>core-java-8</module>
         <module>core-java-9</module>
+        <module>core-java-18</module>
+        <module>core-java-20</module>
         <module>core-java-performance-code</module>
         <module>core-java-io</module>
         <module>core-java-string</module>
-        <module>core-java-18</module>
         <module>core-java-collect</module>
         <module>core-java-base</module>
         <module>core-java-os</module>
