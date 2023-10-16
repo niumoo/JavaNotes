@@ -92,7 +92,7 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 20 新功能介绍](https://www.wdbyte.com/java/java-20/)
 - [Java 19 新功能介绍](https://www.wdbyte.com/java/java-19/)
 - [Java 18 新功能介绍](https://www.wdbyte.com/java/java-18/)
-- [Java 17 新功能介绍](https://www.wdbyte.com/java/java-17/)
+- [Java 17 新功能介绍 (LTS)](https://www.wdbyte.com/java/java-17/)
 - [Java 16 新功能介绍](https://www.wdbyte.com/java/java-16/)
 - [Java 15 新功能介绍](https://www.wdbyte.com/java/java-15/)
 - [Java 14 新特性讲解](https://www.wdbyte.com/java/java-14/)
