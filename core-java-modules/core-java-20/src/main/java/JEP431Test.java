@@ -9,7 +9,6 @@ import java.util.TreeSet;
 /**
  *  JDK 21 之前，顺序集合中操作体验不一致
  * @author https://www.wdbyte.com
- * @date 2023/10/12ø
  */
 public class JEP431Test {
     public static void main(String[] args) {
@@ -58,6 +57,5 @@ public class JEP431Test {
         System.out.println();
 
         // sortedSet linkedHashMap 逆序输出很难操作
-
     }
 }

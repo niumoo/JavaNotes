@@ -24,6 +24,7 @@
         <module>core-java-9</module>
         <module>core-java-18</module>
         <module>core-java-20</module>
+        <module>core-java-21</module>
         <module>core-java-performance-code</module>
         <module>core-java-io</module>
         <module>core-java-string</module>
