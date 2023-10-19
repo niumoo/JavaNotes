@@ -2,6 +2,11 @@
 当前模块包含 Java 核心代码
 
 ### 相关文章
+
+- [Java 21 新功能介绍](https://www.wdbyte.com/java/java-21/)
+- [Java 20 新功能介绍](https://www.wdbyte.com/java/java-20/)
+- [Java 19 新功能介绍](https://www.wdbyte.com/java/java-19/)
+- [Java 18 新功能介绍](https://www.wdbyte.com/java/java-18/)
 - [Java 17 新功能介绍](https://www.wdbyte.com/java/java-17/)
 - [Java 16 新功能介绍](https://www.wdbyte.com/java/java-16/)
 - [Java 15 新功能介绍](https://www.wdbyte.com/java/java-15/)

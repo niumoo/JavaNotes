@@ -53,6 +53,7 @@
 - [Java 枚举](https://www.wdbyte.com/java/enum/)
 - [Java 注释](https://www.wdbyte.com/java/comment/)
 - [Java 集合框架](https://www.wdbyte.com/java/collection/)
+- [Java 中使用 List](https://www.wdbyte.com/java/list/)
 
 ## Java 进阶
 - [ProcessBuilder API 使用教程](https://www.wdbyte.com/java/os/processbuilder/)
