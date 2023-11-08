@@ -3,6 +3,7 @@ package com.wdbyte.collection;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -31,6 +32,18 @@ public class ArrayListTest4 {
         }
         System.out.println(dogMap.get("大黄"));
 
+        List<String> arrayList = new ArrayList();
+        arrayList.add("a");
+        arrayList.add("b");
+
+        Iterator<String> iterator = arrayList.iterator();
+        while (iterator.hasNext()) {
+            String next = iterator.next();
+            if ("a".equals(next)) {
+                iterator.remove();
+            }
+        }
+        System.out.println(arrayList);
     }
 
 }
