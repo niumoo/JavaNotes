@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
+import org.apache.commons.io.FileUtils;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -163,6 +164,15 @@ public class FileReadDemo {
             System.out.println(content.toString());
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void readFileByApacheCommons() throws IOException {
+        File file = new File("/Users/darcy/wdbyte/test.txt");
+        List<String> list = FileUtils.readLines(file, StandardCharsets.UTF_8);
+        for (String data : list) {
+            System.out.println(data);
         }
     }
 }
