@@ -13,8 +13,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author niulang
- * @date 2024/02/27
+ * @author https://www.wdbyte.com
  */
 @Slf4j
 @RestController
@@ -47,6 +46,9 @@ public class SqliteController {
     @GetMapping("/sqlite/find")
     public String findByUsername(String username) {
         WebsiteUser websiteUser = userRepository.findByUsername(username);
+        if (websiteUser == null) {
+            return null;
+        }
         return websiteUser.toString();
     }
 
