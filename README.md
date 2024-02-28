@@ -11,9 +11,10 @@
    <a href="https://www.wdbyte.com/" rel="nofollow"><img src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" alt="未读代码" data-canonical-src="https://img.shields.io/badge/wdbyte-未读代码-yellow.svg" style="max-width:100%;"></a>
 </p>
 
-目录中没有链接的部分，后续更新，感谢你的 ​STAR​ ，有问题或者建议可以[一起完善](Accept#-%E8%B4%A1%E7%8C%AE%E4%B8%8E%E5%BB%BA%E8%AE%AE)。
 
-文章内容也都可以访问网站 [https://www.wdbyte.com](https://www.wdbyte.com) 进行阅读。
+目录中没有链接的部分，后续更新，感谢你的关注 ，有问题或者建议可以[一起完善](#🗺-贡献与建议)。
+> Hi there 👋 我是阿朗， 一名 Java 开发者，热衷于分享一些通俗易懂的技术文章。 分享几句鸡汤，长寿在于生活规律；成功在于坚持不懈。 做好的事情，而不是好做的事情。
+<!-- more -->
 
 ## ⏳ Java 开发
 
@@ -96,6 +97,7 @@
 - [Spring Boot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://www.wdbyte.com/2019/12/springboot/springboot-17-admin/)
 - [Spring Boot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://www.wdbyte.com/2020/03/springboot/springboot-18-module/)
 - [Spring Boot 系列（十九）SpringBoot 的多数据源配置](https://www.wdbyte.com/2020/12/springboot/springboot-multiple-datasource/)
+- [Spring Boot 系列（二十）Spring Boot,JPA与SQLite 的快速启动](https://www.wdbyte.com/springboot/sqlite/)
 
 
 以上 Spring Boot 文章源码：[Github.com/niumoo/springboot](https://github.com/niumoo/springboot/)
@@ -209,6 +211,9 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - 堆
 - 图
 
+## 🍔 数据库
+- [SQLite 入门教程](https://www.wdbyte.com/db/sqlite/)
+
 ## 🧰 工具技巧
 
 >“工欲善其事，必先利其器”
@@ -239,9 +244,12 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [IO通信模型（二）同步非阻塞模式NIO（NonBlocking IO）](https://www.wdbyte.com/2018/10/io/io2-nio/)
 - [IO通信模型（一）同步阻塞模式BIO（Blocking IO）](https://www.wdbyte.com/2018/10/io/io1-bio/)
 
+
 ## 🗺 贡献与建议
 
-1. 内容难免存在笔误，一个错别字，一个语法错误，都是贡献。
+反馈地址：[https://github.com/niumoo/JavaNotes/issues](https://github.com/niumoo/JavaNotes/issues)
+
+1. 内容难免存在笔误，一个错别字，一个语法错误，都是建议。
 2. 文章中的错误和不足，或者不完善的地方都可以进行补充或者修改。
 3. 我没有涉及到的知识点，也可以进行补充。
 
