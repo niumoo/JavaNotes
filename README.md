@@ -44,20 +44,27 @@
 - [Java 数据类型](https://www.wdbyte.com/java/data-type/)
 - [Java 流程控制](https://www.wdbyte.com/java/flow-control/)
 - [Java String 字符串](https://www.wdbyte.com/java/java-string/)
-- [Java Array 数组](https://www.wdbyte.com/java/java-array/)
-- [Java 多维数组](https://www.wdbyte.com/java/java-array-mul/)
 - [Java StringBuilder](https://www.wdbyte.com/java/java-stringbuilder/)
 - [Java Scanner](https://www.wdbyte.com/java/scanner/)
-- [Java 继承](https://www.wdbyte.com/java/extends/)
-- [Java 接口](https://www.wdbyte.com/java/interface/)
-- [Java 抽象类](https://www.wdbyte.com/java/abstract/)
-- [抽象类和接口的区别](https://www.wdbyte.com/java/abs-interface/)
 - [Java 多态](https://www.wdbyte.com/java/polymorphism/)
 - [Java Scanner](https://www.wdbyte.com/java/scanner/)
 - [Java 日期时间Date](https://www.wdbyte.com/java/date/)
 - [Java 异常处理](https://www.wdbyte.com/java/exception/)
 - [Java 枚举](https://www.wdbyte.com/java/enum/)
 - [Java 注释](*https://www.wdbyte.com/java/comment/*)
+
+### Java 数组
+- [Java Array 数组](https://www.wdbyte.com/java/java-array/)
+- [Java 多维数组](https://www.wdbyte.com/java/java-array-mul/)
+- [Java Arrays 教程](https://www.wdbyte.com/java/arrays/)
+
+### Java 面向对象
+- [Java 继承](https://www.wdbyte.com/java/extends/)
+- [Java 接口](https://www.wdbyte.com/java/interface/)
+- [Java 抽象类](https://www.wdbyte.com/java/abstract/)
+- [抽象类和接口的区别](https://www.wdbyte.com/java/abs-interface/)
+
+### Java 集合
 - [Java 集合框架](https://www.wdbyte.com/java/collection/)
 - [Java 中使用 List ](https://www.wdbyte.com/java/list/)
 
@@ -72,6 +79,7 @@
 
 - [ProcessBuilder API 使用教程](https://www.wdbyte.com/java/os/processbuilder/)
 - [Java 热加载手动实现](https://www.wdbyte.com/2019/10/jvm/java-hotput/)
+- [Jpackage - 制作无需预装 Java 环境的 Jar 可执行程序](https://www.wdbyte.com/java/jpackage/)
 
 
 ## 🌿 SpringBoot 2.x 教程
@@ -97,7 +105,7 @@
 - [Spring Boot 系列（十七）迅速使用 Spring Boot Admin 监控你的 Spring Boot 程序](https://www.wdbyte.com/2019/12/springboot/springboot-17-admin/)
 - [Spring Boot 系列（十八）最详细的 Spring Boot 多模块开发与排坑指南](https://www.wdbyte.com/2020/03/springboot/springboot-18-module/)
 - [Spring Boot 系列（十九）SpringBoot 的多数据源配置](https://www.wdbyte.com/2020/12/springboot/springboot-multiple-datasource/)
-- [Spring Boot 系列（二十）Spring Boot,JPA与SQLite 的快速启动](https://www.wdbyte.com/springboot/sqlite/)
+- [Spring Boot 系列（二十）三分钟，Spring Boot、JPA 与 SQLite 的快速启动](https://www.wdbyte.com/springboot/sqlite/)
 
 
 以上 Spring Boot 文章源码：[Github.com/niumoo/springboot](https://github.com/niumoo/springboot/)
@@ -253,31 +261,15 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 2. 文章中的错误和不足，或者不完善的地方都可以进行补充或者修改。
 3. 我没有涉及到的知识点，也可以进行补充。
 
-## 🏃 我的痕迹
-
-1. 我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
-
-2. GitHub：[https://github.com/niumoo](https://github.com/niumoo)
-
-3. C SDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)
-
-4. 博客园：[https://www.cnblogs.com/niumoo/](https://www.cnblogs.com/niumoo/)
-
-5. 掘    金：[https://juejin.im/user/5a62d481f265da3e2a0dac9b](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
-
-6. 知    乎：[https://www.zhihu.com/people/bpdwn](https://www.zhihu.com/people/bpdwn)
-
-
-### 联系我
-
-可以添加我的微信 <u>wn8398</u> 一起交流。
-
-<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wx.png" width="250px" alt="交个朋友">
 
 ### 公众号
 
-有帮助可以点「**赞**」在看或 :star: **Star**，谢谢你！
+可以关注「 **程序猿阿朗** 」公众号。即使查看更新的文章以及分享的干货。
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注「 **未读代码** 」公众号。
+ <img src="https://cdn.debug.group/git/webinfo/wp.png" width="250px" alt="等你很久">
 
-<img src="https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/wp.png" width="250px" alt="等你很久">
+### 联系我
+
+等不及了，还不添加我微信一起交个朋友。
+
+<img src="https://cdn.debug.group/git/webinfo/wx.png" width="250px" alt="交个朋友">
