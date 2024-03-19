@@ -12,6 +12,7 @@
 </p>
 
 
+
 目录中没有链接的部分，后续更新，感谢你的关注 ，有问题或者建议可以[一起完善](#🗺-贡献与建议)。
 > Hi there 👋 我是阿朗， 一名 Java 开发者，热衷于分享一些通俗易懂的技术文章。 分享几句鸡汤，长寿在于生活规律；成功在于坚持不懈。 做好的事情，而不是好做的事情。
 <!-- more -->
@@ -142,25 +143,6 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [Java 7 新特性 - 和低效 IO 说再见，Files,Paths,Path 文件操作介绍](https://www.wdbyte.com/2020/09/jdk/jdk7-file-pahs/)
 - [Java 7 新特性 - 新特性 - 快来补一波 Java 7 语法特性](https://www.wdbyte.com/2020/01/jdk/jdk7-start/)
 
-以上 Java 新功能文章源码： [Github.com/niumoo/jdk-feature](https://github.com/niumoo/jdk-feature)
-
-## 🔬 JDK 源码分析
-
-面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
-
-- [集合 - CopyOnWriteArrayList 实现原理和源码分析](https://www.wdbyte.com/2020/10/jdk/src-copyonwritearraylist/)
-- [集合 - ArrayList和LinkedList 实现原理和源码分析](https://www.wdbyte.com/2020/08/jdk/src-arraylist-linkedlist/)
-- 集合 -「源码分析」Vector
-- [集合 - ConcurrentHashMap 实现原理和源码分析](https://www.wdbyte.com/2020/04/jdk/concurrent-hashmap/)
-- [集合 - HashMap 实现原理和源码分析](https://www.wdbyte.com/2020/03/jdk/hashmap/)
-- 集合 - TreeMap 实现原理和源码分析
-- 集合 - TreeSet 实现原理和源码分析
-- 集合 - LinkedHashSet 实现原理和源码分析
-- 基础类 - Object
-- 基础类 - String
-- 基础类 - StringBuffer & StringBuilder
-
-
 ## 💻 Java 并发编程
 
 - Java 线程创建与运行
@@ -207,6 +189,26 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 - [JMH-大厂是如何使用JMH进行Java代码性能测试的？必须掌握！](https://www.wdbyte.com/2020/08/develop/tool-jmh/)
 - [Arthas - Java 线上问题定位处理的终极利器](https://www.wdbyte.com/2019/11/arthas/)
 - [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下](https://www.wdbyte.com/2019/12/async-profiler/)
+
+## 🔬 JDK 源码分析
+
+面试必备的 JDK 源码分析。探寻 JDK 大佬的设计思路。没有链接部分为后续更新内容，持续更新中。
+
+- [集合 - CopyOnWriteArrayList 实现原理和源码分析](https://www.wdbyte.com/2020/10/jdk/src-copyonwritearraylist/)
+- [集合 - ArrayList和LinkedList 实现原理和源码分析](https://www.wdbyte.com/2020/08/jdk/src-arraylist-linkedlist/)
+- 集合 -「源码分析」Vector
+- [集合 - ConcurrentHashMap 实现原理和源码分析](https://www.wdbyte.com/2020/04/jdk/concurrent-hashmap/)
+- [集合 - HashMap 实现原理和源码分析](https://www.wdbyte.com/2020/03/jdk/hashmap/)
+- 集合 - TreeMap 实现原理和源码分析
+- 集合 - TreeSet 实现原理和源码分析
+- 集合 - LinkedHashSet 实现原理和源码分析
+- 基础类 - Object
+- 基础类 - String
+- 基础类 - StringBuffer & StringBuilder
+
+## 认证授权
+- [JSON Web Token 入门教程](https://www.wdbyte.com/auth/jwt/)
+
 
 ## 🧱 数据结构
 
