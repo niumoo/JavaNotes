@@ -19,7 +19,8 @@
 
 ## 赏个 Star
 
-[![Star History Chart](https://api.star-history.com/svg?repos=niumoo/JavaNotes&type=Date)](https://star-history.com/#niumoo/JavaNotes&Date)
+[![Stargazers over time](https://starchart.cc/niumoo/JavaNotes.svg?background=%23FFFFFF&axis=%23333333&line=%23e76060)](https://starchart.cc/niumoo/JavaNotes)
+
 
 ## ⏳ Java 开发
 
