@@ -264,6 +264,11 @@ Java 版本任你发，我用 Java 8 。但是多学点这种装x技巧总没错
 3. 我没有涉及到的知识点，也可以进行补充。
 
 
+## 赏个 Star
+
+[![Stargazers over time](https://starchart.cc/niumoo/JavaNotes.svg?background=%23FFFFFF&axis=%23333333&line=%23e76060)](https://starchart.cc/niumoo/JavaNotes)
+
+
 ### 公众号
 
 可以关注「 **程序猿阿朗** 」公众号。即使查看更新的文章以及分享的干货。
