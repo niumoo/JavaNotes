@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2024/03/16
  */
 @CrossOrigin(origins = {"https://www.wdbyte.com", "https://bing.wdbyte.com", "http://localhost:8000"})
 @Slf4j
@@ -27,7 +26,7 @@ public class WeixinUserController {
     @Autowired
     private JwtUtil jwtUtil;
 
-    @GetMapping(value = "/api/v1/user/qrcode")
+    @GetMapping(value = "/user/qrcode")
     public String getQrCode() {
         WeixinQrCode qrCode = weixinApiUtil.getQrCode();
         qrCode.setUrl(null);
@@ -43,7 +42,7 @@ public class WeixinUserController {
      * @param ticket
      * @return
      */
-    @GetMapping(value = "/api/v1/user/login/qrcode")
+    @GetMapping(value = "/user/login/qrcode")
     public String userLogin(String ticket) {
         String openId = WeixinQrCodeCacheUtil.get(ticket);
         if (StringUtils.isNotEmpty(openId)) {

@@ -11,8 +11,8 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 @ServletComponentScan(basePackages = "com.wdbyte.weixin.config")
 public class SpringBootApp {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootApp.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootApp.class, args);
+    }
 
 }

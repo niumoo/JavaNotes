@@ -4,7 +4,6 @@ import lombok.Data;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2024/03/15
  */
 @Data
 public class WeixinQrCode {

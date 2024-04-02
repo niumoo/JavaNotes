@@ -12,18 +12,14 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 /**
- * @author niulang
- * @date 2024/03/24
+ * @Author 公众号：程序猿阿朗
  */
 @Slf4j
 @Service
 public class WeixinUserServiceImpl implements WeixinUserService {
 
+    @Value("${weixin.token}")
     private String token;
-
-    public WeixinUserServiceImpl(@Value("${weixin.token}") String token) {
-        this.token = token;
-    }
 
     @Override
     public void checkSignature(String signature, String timestamp, String nonce) {

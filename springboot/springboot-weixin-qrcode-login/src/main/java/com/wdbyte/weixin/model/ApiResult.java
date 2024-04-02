@@ -6,7 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2022/01/04
  */
 @Slf4j
 @Getter

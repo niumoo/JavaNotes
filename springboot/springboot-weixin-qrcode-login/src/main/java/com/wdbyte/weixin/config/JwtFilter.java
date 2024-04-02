@@ -21,20 +21,17 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * JWT过滤器，拦截 /api/* 请求
+ * JWT过滤器，拦截 /user/* 请求
  */
 @Slf4j
-@WebFilter(filterName = "JwtFilter", urlPatterns = "/api/*")
+@WebFilter(filterName = "JwtFilter", urlPatterns = {"/user/*"})
 public class JwtFilter implements Filter {
     private static List<String> EXCLUDE_PATH_LIST = new ArrayList<>();
 
     static {
-        EXCLUDE_PATH_LIST.add("/api/v1/user/qrcode");
-        EXCLUDE_PATH_LIST.add("/api/v1/user/code");
-        EXCLUDE_PATH_LIST.add("/api/v1/user/login/code");
-        EXCLUDE_PATH_LIST.add("/api/v1/user/login/qrcode");
-        EXCLUDE_PATH_LIST.add("/api/v1/weixin/check");
-        EXCLUDE_PATH_LIST.add("/api/v1/github/webhooks");
+        EXCLUDE_PATH_LIST.add("/user/qrcode");
+        EXCLUDE_PATH_LIST.add("/user/login/qrcode");
+        EXCLUDE_PATH_LIST.add("/weixin/check");
     }
 
     private JwtUtil jwtUtil;

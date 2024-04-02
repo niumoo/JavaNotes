@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2024/01/16
  */
 @Slf4j
 @RestController
@@ -22,7 +21,7 @@ public class WeixinServerController {
     @Autowired
     private WeixinUserService weixinUserService;
 
-    @GetMapping(value = "/api/v1/weixin/check")
+    @GetMapping(value = "/weixin/check")
     public String weixinCheck(HttpServletRequest request) {
         String signature = request.getParameter("signature");
         String timestamp = request.getParameter("timestamp");
@@ -36,9 +35,9 @@ public class WeixinServerController {
         return echostr;
     }
 
-    @PostMapping(value = "/api/v1/weixin/check")
+    @PostMapping(value = "/weixin/check")
     public String weixinMsg(@RequestBody String requestBody, @RequestParam("signature") String signature,
-                            @RequestParam("timestamp") String timestamp, @RequestParam("nonce") String nonce) {
+        @RequestParam("timestamp") String timestamp, @RequestParam("nonce") String nonce) {
 
         log.debug("requestBody:{}", requestBody);
         log.debug("signature:{}", signature);
@@ -48,6 +47,5 @@ public class WeixinServerController {
         weixinUserService.checkSignature(signature, timestamp, nonce);
         return weixinUserService.handleWeixinMsg(requestBody);
     }
-
 
 }

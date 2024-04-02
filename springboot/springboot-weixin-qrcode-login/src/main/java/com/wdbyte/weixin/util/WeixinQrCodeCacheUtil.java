@@ -6,7 +6,6 @@ import java.util.LinkedHashMap;
  * 微信二维码缓存工具类
  *
  * @author https://www.wdbyte.com
- * @date 2024/03/16
  */
 public class WeixinQrCodeCacheUtil {
     private static long MAX_CACHE_SIZE = 10000;

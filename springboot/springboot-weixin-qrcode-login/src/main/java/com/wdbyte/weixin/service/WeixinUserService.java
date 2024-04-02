@@ -1,8 +1,7 @@
 package com.wdbyte.weixin.service;
 
 /**
- * @author niulang
- * @date 2024/03/24
+ * @Author 公众号：程序猿阿朗
  */
 public interface WeixinUserService {
 

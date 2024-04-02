@@ -6,7 +6,6 @@ import com.wdbyte.weixin.model.ApiResult;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2023/11/22
  */
 public class ApiResultUtil {
 

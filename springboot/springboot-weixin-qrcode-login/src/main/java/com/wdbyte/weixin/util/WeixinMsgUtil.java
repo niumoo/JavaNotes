@@ -8,7 +8,6 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * @author https://www.wdbyte.com
- * @date 2024/01/21
  */
 public class WeixinMsgUtil {
 
@@ -42,7 +41,7 @@ public class WeixinMsgUtil {
      * @return
      */
     public static boolean isEventAndSubscribe(ReceiveMessage receiveMessage) {
-        return StringUtils.equals(receiveMessage.getEvent(),EVENT_SUBSCRIBE);
+        return StringUtils.equals(receiveMessage.getEvent(), EVENT_SUBSCRIBE);
     }
 
     /**
