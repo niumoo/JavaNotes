@@ -23,3 +23,4 @@
 - [Java 注释](*https://www.wdbyte.com/java/comment/*)
 - [Java 集合框架](https://www.wdbyte.com/java/collection/)
 - [Java 中使用 List ](https://www.wdbyte.com/java/list/)
+- [Java 断言 Assert 使用教程与最佳实践](https://www.wdbyte.com/java/assert/)

@@ -69,6 +69,9 @@
 - [Java 集合框架](https://www.wdbyte.com/java/collection/)
 - [Java 中使用 List ](https://www.wdbyte.com/java/list/)
 
+### 代码测试
+- [Java 断言 Assert 使用教程与最佳实践](https://www.wdbyte.com/java/assert/)
+
 ## 😃Java I/O 教程
 
 - [Java 创建和写入文件](https://www.wdbyte.com/java/io/file-create-write/)

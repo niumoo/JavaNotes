@@ -11,7 +11,6 @@ public class WeekdayTest {
             System.out.println("Today is Monday.");
         }
 
-
         Weekday[] weekdays = Weekday.values();
         for (Weekday weekday : weekdays) {
             System.out.println(weekday);
