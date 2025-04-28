@@ -9,7 +9,7 @@ import org.apache.commons.lang3.Validate;
 import org.junit.jupiter.api.Assertions;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2024/04/22
  */
 public class AssertDemo5 {

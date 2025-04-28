@@ -6,7 +6,7 @@ import java.util.List;
 import static com.google.common.base.Verify.*;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2024/04/22
  */
 public class AssertDemo2 {

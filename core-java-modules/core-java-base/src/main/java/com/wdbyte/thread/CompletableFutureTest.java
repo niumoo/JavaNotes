@@ -6,7 +6,7 @@ import java.util.concurrent.Future;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2023/11/01
  */
 public class CompletableFutureTest {

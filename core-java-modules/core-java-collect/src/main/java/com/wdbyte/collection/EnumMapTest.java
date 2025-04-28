@@ -3,7 +3,7 @@ package com.wdbyte.collection;
 import java.util.EnumMap;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2023/10/20
  */
 public class EnumMapTest {

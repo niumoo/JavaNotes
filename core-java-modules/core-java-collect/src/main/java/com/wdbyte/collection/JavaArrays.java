@@ -9,7 +9,7 @@ import java.util.function.ToIntFunction;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2024/03/04
  */
 public class JavaArrays {

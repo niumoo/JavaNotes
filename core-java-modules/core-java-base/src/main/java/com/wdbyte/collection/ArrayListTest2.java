@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Vector;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2023/10/19
  */
 public class ArrayListTest2 {

@@ -19,7 +19,7 @@ import org.apache.commons.io.FileUtils;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2023/12/12
  */
 public class FileAppendDemo {

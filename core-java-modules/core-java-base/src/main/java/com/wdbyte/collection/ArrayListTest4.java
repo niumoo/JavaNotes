@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 import com.google.common.collect.Lists;
 
 /**
- * @author niulang
+ * @author www.wdbyte.com
  * @date 2023/10/19
  */
 public class ArrayListTest4 {
