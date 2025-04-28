@@ -2,8 +2,6 @@ package com.wdbyte;
 
 import java.util.Optional;
 
-
-import lombok.Data;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -182,23 +180,44 @@ public class Jdk8Optional {
 /**
  * 计算机
  */
-@Data
 class Computer {
     private Optional<SoundCard> soundCard;
+
+    public Optional<SoundCard> getSoundCard() {
+        return soundCard;
+    }
+
+    public void setSoundCard(Optional<SoundCard> soundCard) {
+        this.soundCard = soundCard;
+    }
 }
 
 /**
  * 声卡
  */
-@Data
 class SoundCard {
     private Optional<Usb> usb;
+
+    public Optional<Usb> getUsb() {
+        return usb;
+    }
+
+    public void setUsb(Optional<Usb> usb) {
+        this.usb = usb;
+    }
 }
 
 /**
  * USB
  */
-@Data
 class Usb {
     private String version;
+
+    public String getVersion() {
+        return version;
+    }
+
+    public void setVersion(String version) {
+        this.version = version;
+    }
 }

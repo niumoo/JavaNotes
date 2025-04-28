@@ -1,24 +1,15 @@
 package com.wdbyte.jackson;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonSetter;
+
 import java.time.LocalDateTime;
 import java.util.Date;
-
-import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonGetter;
-import com.fasterxml.jackson.annotation.JsonSetter;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.ToString;
 
 /**
  * @author https://www.wdbyte.com
  * @date 2022/07/17
  */
-//@Data
-@AllArgsConstructor
-@NoArgsConstructor
-@ToString
 public class Order {
 
     @JsonSetter(value = "orderId")
@@ -52,6 +43,24 @@ public class Order {
     }
 
     public void setUpdateTime(LocalDateTime updateTime) {
+        this.updateTime = updateTime;
+    }
+
+    @Override
+    public String toString() {
+        return "Order{" +
+                "id=" + id +
+                ", createTime=" + createTime +
+                ", updateTime=" + updateTime +
+                '}';
+    }
+
+    public Order() {
+    }
+
+    public Order(Integer id, Date createTime, LocalDateTime updateTime) {
+        this.id = id;
+        this.createTime = createTime;
         this.updateTime = updateTime;
     }
 }

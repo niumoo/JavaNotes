@@ -1,36 +1,20 @@
 package com.wdbyte.jackson;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import com.fasterxml.jackson.annotation.JsonAnySetter;
-import com.google.common.collect.Maps;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @author https://www.wdbyte.com
  * @date 2022/07/17
  */
-@ToString
-@AllArgsConstructor
-@NoArgsConstructor
 public class Student {
-    @Getter
-    @Setter
     private String name;
 
-    @Getter
-    @Setter
     private Integer age;
 
-    @Getter
-    @Setter
     private Map<String, Object> diyMap = new HashMap<>();
 
     @JsonAnyGetter
@@ -45,4 +29,55 @@ public class Student {
         this.diyMap.put(key, value);
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
+    public Map<String, Object> getDiyMap() {
+        return diyMap;
+    }
+
+    public void setDiyMap(Map<String, Object> diyMap) {
+        this.diyMap = diyMap;
+    }
+
+    public Map<String, Object> getInitMap() {
+        return initMap;
+    }
+
+    public void setInitMap(Map<String, Object> initMap) {
+        this.initMap = initMap;
+    }
+
+    public Student() {
+    }
+
+    public Student(String name, Integer age, Map<String, Object> diyMap, Map<String, Object> initMap) {
+        this.name = name;
+        this.age = age;
+        this.diyMap = diyMap;
+        this.initMap = initMap;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", diyMap=" + diyMap +
+                ", initMap=" + initMap +
+                '}';
+    }
 }

@@ -1,9 +1,5 @@
 package com.wdbyte;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
@@ -70,13 +66,33 @@ public class Jdk8Lambda {
     }
 
 
-    @Getter
-    @Setter
-    @ToString
-    @AllArgsConstructor
     static class User {
         private String name;
         private Integer age;
+
+        public User() {
+        }
+
+        public User(String name, Integer age) {
+            this.name = name;
+            this.age = age;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
+        public Integer getAge() {
+            return age;
+        }
+
+        public void setAge(Integer age) {
+            this.age = age;
+        }
     }
 
     public static List<User> userList = new ArrayList<User>();
